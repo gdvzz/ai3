@@ -33,7 +33,7 @@ categories:
 
 <!--  -->
 - ⚛️ 招聘官网：[拼多多集团-PDD \| 2027届校园招聘_无拼不青春_提前批↗](https://careers.pddglobalhr.com/campus/grad)
-- ❇️ 招聘官微：[拼多多集团-PDD提前批_2027校园招聘↗](https://mp.weixin.qq.com/s/K0PVVUAi6CSLO_d5iGsx3Q)`（拼多多集团-PDD招聘 2026年7月8日 16:22 上海）`
+- ❇️ 招聘官微：[百度2027届校园招聘正式启动！↗](https://mp.weixin.qq.com/s/fbmVnLXbD3UVMQ86VQC1FQ)`（百度招聘 2026年7月9日 14:30 北京）`
 <!-- - 🌟 温馨提示：2026年校招中国电信将同时在自建网站 https://job.chinatelecom.com.cn/ 和合作网站 http://campus.51job.com/chinatelecom 收取简历；**每个学生最多可以投五家单位，每个单位最多投递2个岗位** -->
 - 🛑 截止日期：8月23日（7月6日-8月23日）
 

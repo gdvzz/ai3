@@ -11,6 +11,8 @@ main:
     url: /categories/recam/
   - title: "就业test"
     url: /fsem/
+  - title: "就业t1"
+    url: /fsem1/
 
 
 # test only
