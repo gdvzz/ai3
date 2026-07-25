@@ -1,6 +1,6 @@
 ---
-title: "test百度_27届秋招"
-# last_modified_at: 2016-03-09T16:20:02-05:00
+title: "(tbc)百度_27届秋招"
+last_modified_at: 2026-07-25T16:20:02-05:00
 categories:
   - recam
 # tags:
@@ -9,8 +9,8 @@ categories:
 #   - standard
 ---
 
-<!-- # 拼多多_27届秋招_提前批 -->
-`更新-260724` \| `发布-260724`
+<!-- # 百度_27届秋招 -->
+`更新-260725` \| `发布-260724`
 
 <!--  -->
 <details markdown="block">
@@ -18,7 +18,7 @@ categories:
 - TOC
 {:toc}
 </details>
-
+<br>
 <!--  -->
 <!-- <details markdown="block">
   <summary>ℹ️ 更新历史</summary>
@@ -70,7 +70,7 @@ categories:
 - 有一定项目经验，熟悉软件工程开发流程
 - 具备专业领域的计算机知识和技能：搜索引擎、数据挖掘/机器学习、多媒体、地理信息系统、云计算、分布式系统等
 
-https://talent.baidu.com/jobs/detail/GRADUATE/72145a13-5eb1-41ce-8853-d00aa7369281
+[官网投递↗](https://talent.baidu.com/jobs/detail/GRADUATE/72145a13-5eb1-41ce-8853-d00aa7369281)
 
 <!--  -->
 ## 北京-2027管培生(J101320)
@@ -97,7 +97,7 @@ https://talent.baidu.com/jobs/detail/GRADUATE/72145a13-5eb1-41ce-8853-d00aa73692
     - 聪明理性：能快速洞察问题本质，在复杂环境中做出理性决策。
     - 有想法，敢表达：敢于表达鲜明的观点，具备年轻人的锐气与创新精神，不拘泥于传统思维。
 
-https://talent.baidu.com/jobs/detail/GRADUATE/a20dfb76-4c9d-4814-bd74-7561616e2773
+[官网投递↗](https://talent.baidu.com/jobs/detail/GRADUATE/a20dfb76-4c9d-4814-bd74-7561616e2773)
 
 <!--  -->
 ## 北京-AI产品经理(J100665)
@@ -120,7 +120,7 @@ https://talent.baidu.com/jobs/detail/GRADUATE/a20dfb76-4c9d-4814-bd74-7561616e27
 - 具备良好的跨团队沟通与推动能力，有较强的学习能力和主动性
 - 有AI/大模型产品相关实习经历者优先
 
-https://talent.baidu.com/jobs/detail/GRADUATE/423c0fa3-a0f3-4def-a882-7466d3685b79
+[官网投递↗](https://talent.baidu.com/jobs/detail/GRADUATE/423c0fa3-a0f3-4def-a882-7466d3685b79)
 
 <!--  -->
 ## 北京-多模态算法工程师(J100765)
@@ -143,7 +143,7 @@ https://talent.baidu.com/jobs/detail/GRADUATE/423c0fa3-a0f3-4def-a882-7466d3685b
 - 有多模态学习、计算机视觉或NLP相关研究/项目经历者优先
 - 在顶级学术会议（CVPR、ECCV、ACL等）发表过论文者优先
 
-https://talent.baidu.com/jobs/detail/GRADUATE/b9ad50c9-07c7-4b9c-998d-7049bb706edf
+[官网投递↗](https://talent.baidu.com/jobs/detail/GRADUATE/b9ad50c9-07c7-4b9c-998d-7049bb706edf)
 
 <!--  -->
 ## 北京-AI测试开发工程师(J101055)
@@ -168,7 +168,7 @@ https://talent.baidu.com/jobs/detail/GRADUATE/b9ad50c9-07c7-4b9c-998d-7049bb706e
 - 熟悉接口、性能、功能自动化测试全流程，有全链路自动化测试落地经验，能够结合业务场景定制智能化测试方案，适配AI赋能的迭代测试需求
 - 具备良好的沟通协同能力、自主学习能力和技术创新意识，善于跟进AI测试前沿技术并落地转化，有AI测试、大模型质效优化、智能测试平台开发相关实习或项目经验者优先
 
-https://talent.baidu.com/jobs/detail/GRADUATE/6061be03-f92b-4430-a1b8-9168de0f91f6
+[官网投递↗](https://talent.baidu.com/jobs/detail/GRADUATE/6061be03-f92b-4430-a1b8-9168de0f91f6)
 
 <!--  -->
 ## 北京-智能体算法工程师(J101017)
@@ -190,7 +190,7 @@ https://talent.baidu.com/jobs/detail/GRADUATE/6061be03-f92b-4430-a1b8-9168de0f91
 - 业务理解力强，自驱力突出，沟通表达清晰，具备良好的跨团队协作能力
 - 有智能体产品从早期搭建经历，顶级会议论文（CVPR/ACL/ICML等），ACM、IOI、IMO等竞赛获奖，知名开源项目核心贡献者优先
 
-https://talent.baidu.com/jobs/detail/GRADUATE/02f73086-be71-4d09-8d6e-f1c6981b8b48
+[官网投递↗](https://talent.baidu.com/jobs/detail/GRADUATE/02f73086-be71-4d09-8d6e-f1c6981b8b48)
 
 <!--  -->
 ## 北京-大模型算法工程师(J100728)
@@ -213,7 +213,7 @@ https://talent.baidu.com/jobs/detail/GRADUATE/02f73086-be71-4d09-8d6e-f1c6981b8b
 - 有大模型训练、NLP或相关方向研究/项目经历者优先
 - 在顶级学术会议（ACL、NeurIPS、ICML等）发表过论文者优先
 
-https://talent.baidu.com/jobs/detail/GRADUATE/ccfdea4e-4ae4-4954-9062-fd94960a2861
+[官网投递↗](https://talent.baidu.com/jobs/detail/GRADUATE/ccfdea4e-4ae4-4954-9062-fd94960a2861)
 
 
 <!--  -->
@@ -237,7 +237,7 @@ https://talent.baidu.com/jobs/detail/GRADUATE/ccfdea4e-4ae4-4954-9062-fd94960a28
 - 逻辑思维缜密，具备良好的分析与表达能力，能将技术能力转化为审计业务价值
 - 持有 CIA、CPA、CISA、ACCA 等专业资格证书或正在备考者优先
 
-https://talent.baidu.com/jobs/detail/GRADUATE/a3ae93a6-014d-4049-9a23-50297499d5d9
+[官网投递↗](https://talent.baidu.com/jobs/detail/GRADUATE/a3ae93a6-014d-4049-9a23-50297499d5d9)
 
 <!--  -->
 ## 2027AIDU-AI异构计算研发工程师(J99964)
@@ -287,7 +287,7 @@ https://talent.baidu.com/jobs/detail/GRADUATE/a3ae93a6-014d-4049-9a23-50297499d5
 
 招聘部门：大模型基建部、预训练部
 
-https://talent.baidu.com/jobs/detail/GRADUATE/fe876a65-1a6c-499a-9506-2169009a02a1
+[官网投递↗](https://talent.baidu.com/jobs/detail/GRADUATE/fe876a65-1a6c-499a-9506-2169009a02a1)
 
 <!--  -->
 <span style="font-size:12px; color:#999">THE END</span>
