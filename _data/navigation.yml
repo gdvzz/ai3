@@ -1,4 +1,8 @@
 main:
+  - title: "就业"
+    url: /fsem/
+  - title: "笔记"
+    url: /categories/blog/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
@@ -7,21 +11,19 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
-  - title: "招聘"
-    url: /categories/recam/
-  - title: "就业test"
-    url: /fsem/
-  - title: "就业t1"
-    url: /fsem1/
+  # - title: "招聘"
+  #   url: /categories/recam/
+  # - title: "就业test"
+  #   url: /fsem/
 
 
 # test only
-fsem:
-  - title: "就业"
-    children:
-      - title: "求职"
-        url: /categories/jobs/
-      - title: "招聘"
-        url: /categories/recam/
-      - title: "经验"
-        url: /categories/exp/
+# fsem:
+#   - title: "就业"
+#     children:
+#       - title: "求职"
+#         url: /categories/jobs/
+#       - title: "招聘"
+#         url: /categories/recam/
+#       - title: "经验"
+#         url: /categories/exp/
