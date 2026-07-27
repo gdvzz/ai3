@@ -3,11 +3,12 @@ title: "百度_27届校招(🛑2706)_tbc"
 last_modified_at: 2026-07-27T16:20:02-05:00
 categories:
   - recam
-classes: wide   # 就这一行，让页面变宽
 # tags:
 #   - Post Formats
 #   - readability
 #   - standard
+layout: single
+classes: wide   # 就这一行，让页面变宽
 ---
 
 <!-- # 百度_27届秋招 -->
@@ -25,7 +26,7 @@ classes: wide   # 就这一行，让页面变宽
 <details markdown="block">
   <summary>ℹ️ 更新</summary>
 <br>
-260727：持续补充20个岗位信息。
+260727：持续补充20个岗位信息。<br>
 260727：增加岗位分类。
 
 </details>
