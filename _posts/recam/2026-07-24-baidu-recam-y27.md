@@ -44,11 +44,11 @@ classes: wide   # 就这一行，让页面变宽
 
 ### 产品（29）
 
-- [北京-百度个人超级智能事业群P-STAR产培生计划(J101273)](#北京-百度个人超级智能事业群p-star产培生计划(j101273))
-- [北京-AI产品经理(J100665)](#北京-ai产品经理(j100665))
-- [上海-策略产品经理(J100673)](#上海-策略产品经理(j100673))
-- [深圳-商业产品经理(J101099)](#深圳-商业产品经理(j101099))
-- [深圳-AI产品经理(J100667)](#深圳-ai产品经理(j100667))
+- [北京-百度个人超级智能事业群P-STAR产培生计划(J101273)](#北京-百度个人超级智能事业群p-star产培生计划j101273)
+- [北京-AI产品经理(J100665)](#北京-ai产品经理j100665)
+- [上海-策略产品经理(J100673)](#上海-策略产品经理j100673)
+- [深圳-商业产品经理(J101099)](#深圳-商业产品经理j101099)
+- [深圳-AI产品经理(J100667)](#深圳-ai产品经理j100667)
 <!--  -->
 - 北京-产品体验设计师(J100763)`(nc)`[↗](https://talent.baidu.com/jobs/detail/GRADUATE/fbf35cc4-f196-4f4c-9ba1-9fca982e5269)
 - 北京-大模型AI数据训练师(J100672)`(nc)`[↗](https://talent.baidu.com/jobs/detail/GRADUATE/720ab09c-f78c-4dda-80fa-10afd09b8094)
@@ -59,31 +59,31 @@ classes: wide   # 就这一行，让页面变宽
 
 tbd：
 
-- [北京-百度移动生态事业群P-STAR产培生计划(J100669)](#北京-百度移动生态事业群p-star产培生计划(j100669))
-- [北京-策略产品经理(J100784)](#北京-策略产品经理(j100784))
-- [北京-产品经理(J100820)](#北京-产品经理(j100820))
-- [北京-产品运营(J100766)](#北京-产品运营(j100766))
-- [北京-大模型AI数据训练师(J100672)](#北京-大模型ai数据训练师(j100672))
-- [北京-海外达人营销(J101052)](#北京-海外达人营销(j101052))
-- [北京-内容生态运营(J101050)](#北京-内容生态运营(j101050))
-- [北京-商业产品经理(J100795)](#北京-商业产品经理(j100795))
-- [北京-视觉设计师(J100692)](#北京-视觉设计师(j100692))
-- [北京-数据分析师(J100697)](#北京-数据分析师(j100697))
-- [北京-用户产品经理(J100806)](#北京-用户产品经理(j100806))
-- [大连-产品经理(日语)(J100798)](#大连-产品经理(日语)(j100798))
-- [大连-产品运营(J101097)](#大连-产品运营(j101097))
-- [上海-百度移动生态事业群P-STAR产培生计划(J103173)](#上海-百度移动生态事业群p-star产培生计划(j103173))
-- [上海-产品运营(J100759)](#上海-产品运营(j100759))
-- [上海-商业产品经理(J100706)](#上海-商业产品经理(j100706))
-- [上海-用户产品经理(J101084)](#上海-用户产品经理(j101084))
-- [深圳-产品经理(J100825)](#深圳-产品经理(j100825))
-- [深圳-产品运营(J100809)](#深圳-产品运营(j100809))
+- [北京-百度移动生态事业群P-STAR产培生计划(J100669)](#北京-百度移动生态事业群p-star产培生计划j100669)
+- [北京-策略产品经理(J100784)](#北京-策略产品经理j100784)
+- [北京-产品经理(J100820)](#北京-产品经理j100820)
+- [北京-产品运营(J100766)](#北京-产品运营j100766)
+- [北京-大模型AI数据训练师(J100672)](#北京-大模型ai数据训练师j100672)
+- [北京-海外达人营销(J101052)](#北京-海外达人营销j101052)
+- [北京-内容生态运营(J101050)](#北京-内容生态运营j101050)
+- [北京-商业产品经理(J100795)](#北京-商业产品经理j100795)
+- [北京-视觉设计师(J100692)](#北京-视觉设计师j100692)
+- [北京-数据分析师(J100697)](#北京-数据分析师j100697)
+- [北京-用户产品经理(J100806)](#北京-用户产品经理j100806)
+- [大连-产品经理(日语)(J100798)](#大连-产品经理(日语)j100798)
+- [大连-产品运营(J101097)](#大连-产品运营j101097)
+- [上海-百度移动生态事业群P-STAR产培生计划(J103173)](#上海-百度移动生态事业群p-star产培生计划j103173)
+- [上海-产品运营(J100759)](#上海-产品运营j100759)
+- [上海-商业产品经理(J100706)](#上海-商业产品经理j100706)
+- [上海-用户产品经理(J101084)](#上海-用户产品经理j101084)
+- [深圳-产品经理(J100825)](#深圳-产品经理j100825)
+- [深圳-产品运营(J100809)](#深圳-产品运营j100809)
 
 
 
 ### 政企（12）
 
-- [南京-云和大模型大客户销售(J100934)](#南京-云和大模型大客户销售(j100934))
+- [南京-云和大模型大客户销售(J100934)](#南京-云和大模型大客户销售j100934)
 
 tbd
 
@@ -114,8 +114,8 @@ tbd
 
 ### 综合（21）
 
-- [北京-2027管培生(J101320)](#北京-2027管培生(j101320))
-- [北京-智能审计专员(J103164)](#北京-智能审计专员(j103164))
+- [北京-2027管培生(J101320)](#北京-2027管培生j101320)
+- [北京-智能审计专员(J103164)](#北京-智能审计专员j103164)
 <!--  -->
 - 北京-国际公关/传播(J101305)`(nc)`[↗](https://talent.baidu.com/jobs/detail/GRADUATE/7255dcd6-78c6-4592-b328-f5d3b09eef53)
 - 北京-投资经理(J100758)`(nc)`[↗](https://talent.baidu.com/jobs/detail/GRADUATE/45cd8aa8-587a-4cfe-a8d0-5290376e6427)
@@ -147,8 +147,8 @@ tbd
 - [2027AIDU-多模态算法工程师(J99956)](#2027aidu-多模态算法工程师(j99956))
 - [2027AIDU-基础模型架构师(J99976)](#2027aidu-基础模型架构师(j99976))
 
-- [2027AIDU-端到端系统架构师(J99978)](#2027aidu-端到端系统架构师(j99978))
-- [2027AIDU-世界模型架构师(J99982)](#2027aidu-世界模型架构师(j99982))
+- [2027AIDU-端到端系统架构师(J99978)](#2027aidu-端到端系统架构师j99978)
+- [2027AIDU-世界模型架构师(J99982)](#2027aidu-世界模型架构师j99982)
 
 
 - [2027AIDU-视觉-语言模型架构师(J99980)](#2027aidu-视觉-语言模型架构师(j99980))
@@ -742,7 +742,7 @@ https://talent.baidu.com/jobs/detail/GRADUATE/9de8e1e8-e63c-4f0c-ac14-5df35d4f2c
 - 有较好的团队协作及沟通能力
 - 具备很强的分析和解决问题的能力，对攻关疑难问题具有强烈的兴趣
 
-https://talent.baidu.com/jobs/detail/GRADUATE/e47c72e4-689c-495f-ba79-0852d956d083
+[官网投递↗](https://talent.baidu.com/jobs/detail/GRADUATE/e47c72e4-689c-495f-ba79-0852d956d083)
 
 <!--  -->
 ## 上海-自动驾驶端到端决策规划控制算法工程师(J100785)
@@ -768,7 +768,7 @@ https://talent.baidu.com/jobs/detail/GRADUATE/e47c72e4-689c-495f-ba79-0852d956d0
 - 在ICRA、IROS、CoRL、NeurIPS等顶会发表论文者优先
 - 逻辑清晰，沟通协作能力强。
 
-https://talent.baidu.com/jobs/detail/GRADUATE/26589494-be28-4d0e-8ceb-727e998c0867
+[官网投递↗](https://talent.baidu.com/jobs/detail/GRADUATE/26589494-be28-4d0e-8ceb-727e998c0867)
 
 <!--  -->
 ## 北京-数据开发工程师(J100755)
@@ -792,7 +792,7 @@ https://talent.baidu.com/jobs/detail/GRADUATE/26589494-be28-4d0e-8ceb-727e998c08
 - 了解Windows、Unix、Linux等主流操作系统原理，熟练运用系统层支持应用开发
 - 技术视野开阔，有强烈的上进心和求知欲，善于学习和运用新知识，勇于解决难题
 
-https://talent.baidu.com/jobs/detail/GRADUATE/291b5b2d-cbe3-4f5d-8435-a63ff55dd182
+[官网投递↗](https://talent.baidu.com/jobs/detail/GRADUATE/291b5b2d-cbe3-4f5d-8435-a63ff55dd182)
 
 <!--  -->
 ## 北京-自动驾驶视觉语言模型算法工程师(J100721)
@@ -814,7 +814,7 @@ https://talent.baidu.com/jobs/detail/GRADUATE/291b5b2d-cbe3-4f5d-8435-a63ff55dd1
 - 具有良好的沟通能力，能够在团队内和团队间高效协作
 - 在顶级会议有论文发表，或对世界模型、强化学习有深度实践
 
-https://talent.baidu.com/jobs/detail/GRADUATE/8d3dfff6-f8a1-48e1-a4d9-2b36ce0be6e2
+[官网投递↗](https://talent.baidu.com/jobs/detail/GRADUATE/8d3dfff6-f8a1-48e1-a4d9-2b36ce0be6e2)
 
 <!--  -->
 ## 北京-自动驾驶大规模AI系统优化与异构计算工程师(J100724)
@@ -833,7 +833,7 @@ https://talent.baidu.com/jobs/detail/GRADUATE/8d3dfff6-f8a1-48e1-a4d9-2b36ce0be6
 - 深入理解底层硬件架构，熟悉并行计算、分布式系统原理或深度学习编译器（如 TVM/TensorRT）
 - 有深度学习框架底层开发经验，或向核心开源社区（如 PyTorch, Triton）贡献过代码者优先
 
-https://talent.baidu.com/jobs/detail/GRADUATE/15a59bf3-83f9-4c35-8d5e-bce6c50c59cc
+[官网投递↗](https://talent.baidu.com/jobs/detail/GRADUATE/15a59bf3-83f9-4c35-8d5e-bce6c50c59cc)
 
 <!--  -->
 ## 深圳-移动端开发工程师(J100675)
@@ -858,7 +858,7 @@ https://talent.baidu.com/jobs/detail/GRADUATE/15a59bf3-83f9-4c35-8d5e-bce6c50c59
 - 学习能力强，具有良好的沟通能力和良好的团队合作精神
 - 有上线App或移动端相关实习经历者优先
 
-https://talent.baidu.com/jobs/detail/GRADUATE/84d7dc47-f8a9-48df-9274-6d68c6ebef30
+[官网投递↗](https://talent.baidu.com/jobs/detail/GRADUATE/84d7dc47-f8a9-48df-9274-6d68c6ebef30)
 
 <!--  -->
 ## 上海-AI测试开发工程师(J101057)
@@ -882,7 +882,7 @@ https://talent.baidu.com/jobs/detail/GRADUATE/84d7dc47-f8a9-48df-9274-6d68c6ebef
 - 熟悉接口、性能、功能自动化测试全流程，有全链路自动化测试落地经验，能够结合业务场景定制智能化测试方案，适配AI赋能的迭代测试需求
 - 具备良好的沟通协同能力、自主学习能力和技术创新意识，善于跟进AI测试前沿技术并落地转化，有AI测试、大模型质效优化、智能测试平台开发相关实习或项目经验者优先
 
-https://talent.baidu.com/jobs/detail/GRADUATE/fea4ea6b-86a6-4a22-807f-b9dc6fa116a6
+[官网投递↗](https://talent.baidu.com/jobs/detail/GRADUATE/fea4ea6b-86a6-4a22-807f-b9dc6fa116a6)
 
 <!--  -->
 ## 上海-后端开发工程师(J100741)
@@ -912,7 +912,7 @@ https://talent.baidu.com/jobs/detail/GRADUATE/fea4ea6b-86a6-4a22-807f-b9dc6fa116
 - 有一定项目经验，熟悉软件工程开发流程
 - 具备专业领域的计算机知识和技能：搜索引擎、数据挖掘/机器学习、多媒体、地理信息系统、云计算、分布式系统等
 
-https://talent.baidu.com/jobs/detail/GRADUATE/b68949bd-516b-463b-8219-844dd2e184c2
+[官网投递↗](https://talent.baidu.com/jobs/detail/GRADUATE/b68949bd-516b-463b-8219-844dd2e184c2)
 
 <!--  -->
 ## 北京-计算机视觉算法工程师(J100771)
@@ -934,7 +934,7 @@ https://talent.baidu.com/jobs/detail/GRADUATE/b68949bd-516b-463b-8219-844dd2e184
 - 有计算机视觉相关研究/竞赛/项目经历者优先
 - 在CVPR、ECCV、ICCV等会议发表过论文者优先
 
-https://talent.baidu.com/jobs/detail/GRADUATE/88197b70-ccef-44d9-a160-128d35fb503a
+[官网投递↗](https://talent.baidu.com/jobs/detail/GRADUATE/88197b70-ccef-44d9-a160-128d35fb503a)
 
 <!--  -->
 ## 上海-策略产品经理(J100673)
@@ -956,7 +956,7 @@ https://talent.baidu.com/jobs/detail/GRADUATE/88197b70-ccef-44d9-a160-128d35fb50
 - 有良好的算法理解能力，能与算法团队高效协作
 - 有策略产品、推荐系统或广告相关实习经历者优先
 
-https://talent.baidu.com/jobs/detail/GRADUATE/b1537e9d-99b2-4f5c-a546-559d5c5a8718
+[官网投递↗](https://talent.baidu.com/jobs/detail/GRADUATE/b1537e9d-99b2-4f5c-a546-559d5c5a8718)
 
 <!--  -->
 ## 深圳-AI产品经理(J100667)
@@ -978,7 +978,7 @@ https://talent.baidu.com/jobs/detail/GRADUATE/b1537e9d-99b2-4f5c-a546-559d5c5a87
 - 具备良好的跨团队沟通与推动能力，有较强的学习能力和主动性
 - 有AI/大模型产品相关实习经历者优先
 
-https://talent.baidu.com/jobs/detail/GRADUATE/6a3ec057-b632-4c99-b075-dce2dbeccdd1
+[官网投递↗](https://talent.baidu.com/jobs/detail/GRADUATE/6a3ec057-b632-4c99-b075-dce2dbeccdd1)
 
 <!--  -->
 ## 北京-AI Infra工程师(J100730)
@@ -1000,7 +1000,7 @@ https://talent.baidu.com/jobs/detail/GRADUATE/6a3ec057-b632-4c99-b075-dce2dbeccd
 - 理解模型量化、推理优化、显存管理等技术原理
 - 有大模型训练/推理系统相关项目或实习经历者优先
 
-https://talent.baidu.com/jobs/detail/GRADUATE/59d9bb54-46e5-4d3c-aa26-e59b1dea387a
+[官网投递↗](https://talent.baidu.com/jobs/detail/GRADUATE/59d9bb54-46e5-4d3c-aa26-e59b1dea387a)
 
 
 <!--  -->
@@ -1023,6 +1023,7 @@ https://talent.baidu.com/jobs/detail/GRADUATE/59d9bb54-46e5-4d3c-aa26-e59b1dea38
 - 有较强的抗压能力、应变能力和执行能力
 - 优秀社交能力，有参与过科技项目或竞赛、辩论赛，有在校参与或者组织过各类社团活动者优先
 
+[官网投递↗](https://talent.baidu.com/jobs/detail/GRADUATE/a2a8541a-65e0-4e5d-8b94-5970d9777cf1)
 
 <!--  -->
 <span style="font-size:12px; color:#999">THE END</span>
