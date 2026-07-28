@@ -25,8 +25,6 @@ classes: wide   # 就这一行，让页面变宽
 <!--  -->
 <details markdown="block">
   <summary>ℹ️ 更新</summary>
-<br>
-
 260727：增加岗位分类<br>
 260727：增加20个岗位
 </details>

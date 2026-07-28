@@ -1,16 +1,18 @@
 ---
 title: "拼多多_27届秋招_提前批(🛑0823)"
-# last_modified_at: 2016-03-09T16:20:02-05:00
+last_modified_at: 2026-07-28T16:20:02-05:00
 categories:
   - recam
 # tags:
 #   - Post Formats
 #   - readability
 #   - standard
+layout: splash
+# classes: wide   # 就这一行，让页面变宽
 ---
 
 <!-- # 拼多多_27届秋招_提前批 -->
-`更新-260722` \| `发布-260721`
+`更新-260728` \| `发布-260721`
 
 <!--  -->
 <details markdown="block">
@@ -20,22 +22,22 @@ categories:
 </details>
 
 <!--  -->
-<!-- <details markdown="block">
-  <summary>ℹ️ 更新历史</summary>
-<br>
-
-**260719**
-- 新增：[【3班】相关参考笔记](#【3班】相关参考笔记)
-
-**260715**
-- 新增：[时间和地点](#时间和地点)
-</details> -->
+<details markdown="block">
+  <summary>ℹ️ 更新</summary>
+270728：新增[投递建议](#投递建议)
+</details>
 
 <!--  -->
 - ⚛️ 招聘官网：[拼多多集团-PDD \| 2027届校园招聘_无拼不青春_提前批↗](https://careers.pddglobalhr.com/campus/grad)
 - ❇️ 招聘官微：[拼多多集团-PDD提前批_2027校园招聘↗](https://mp.weixin.qq.com/s/K0PVVUAi6CSLO_d5iGsx3Q)`（拼多多集团-PDD招聘 2026年7月8日 16:22 上海）`
 <!-- - 🌟 温馨提示：2026年校招中国电信将同时在自建网站 https://job.chinatelecom.com.cn/ 和合作网站 http://campus.51job.com/chinatelecom 收取简历；**每个学生最多可以投五家单位，每个单位最多投递2个岗位** -->
 - 🛑 截止日期：8月23日（7月6日-8月23日）
+
+## 投递建议
+
+- ✳️ [拼多多集团-PDD | 如何拿下提前批OFFER？简历+笔试+面试一站式指南请收好](https://mp.weixin.qq.com/s/5VoRog0gjnUpQ8QkxcT78A)`（拼多多集团-PDD招聘 2026年7月22日 11:26 上海）`
+- 若需要协助和商讨，可联系QQ群中的董老师
+
 
 ## 岗位列表
 
