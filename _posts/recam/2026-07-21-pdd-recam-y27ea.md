@@ -35,7 +35,7 @@ layout: splash
 
 ## 投递建议
 
-- ✳️ [拼多多集团-PDD | 如何拿下提前批OFFER？简历+笔试+面试一站式指南请收好](https://mp.weixin.qq.com/s/5VoRog0gjnUpQ8QkxcT78A)`（拼多多集团-PDD招聘 2026年7月22日 11:26 上海）`
+- ✳️ [拼多多集团-PDD \| 如何拿下提前批OFFER？简历+笔试+面试一站式指南请收好↗](https://mp.weixin.qq.com/s/5VoRog0gjnUpQ8QkxcT78A)`（拼多多集团-PDD招聘 2026年7月22日 11:26 上海）`
 - 若需要协助和商讨，可联系QQ群中的董老师
 
 
