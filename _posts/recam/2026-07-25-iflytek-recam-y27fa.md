@@ -11,7 +11,7 @@ layout: splash
 # classes: wide   # 就这一行，让页面变宽
 ---
 
-<!-- # 科大讯飞_27届秋招 -->
+# 科大讯飞_27届秋招
 `更新-260729` \| `发布-260725`
 
 <!--  -->
@@ -45,7 +45,7 @@ layout: splash
 
 ### 算发研究类（24）
 
-- [AI研究算法工程师-大模型训练/推理Infra方向(J13367)](#ai研究算法工程师-大模型训练/推理infra方向j13367)
+- [AI研究算法工程师-大模型训练/推理Infra方向(J13367)](#ai研究算法工程师-大模型训练推理infra方向j13367)
 - [AI研究算法工程师-大模型训推框架优化方向(J13368)](#ai研究算法工程师-大模型训推框架优化方向j13368)
 - [AI研究算法工程师-大模型预训练数据研究方向(J13369)](#ai研究算法工程师-大模型预训练数据研究方向j13369)
 - [AI研究算法工程师-大模型预训练算法岗位(J13370)](#ai研究算法工程师-大模型预训练算法岗位j13370)
@@ -68,7 +68,7 @@ layout: splash
 - [AI研究算法工程师-语音大模型方向(J13388)](#ai研究算法工程师-语音大模型方向j13388)
 - [AI研究算法工程师-智能语音方向(J13389)](#ai研究算法工程师-智能语音方向j13389)
 - [AI研究算法工程师-自然语言处理方向(J13390)](#ai研究算法工程师-自然语言处理方向j13390)
-- [AI研究算法工程师—推荐算法方向(J13387)](#ai研究算法工程师—推荐算法方向j13387)
+- [AI研究算法工程师—推荐算法方向(J13387)](#ai研究算法工程师推荐算法方向j13387)
 
 ### 研发类（13）
 
@@ -111,7 +111,7 @@ layout: splash
 - [模型出海增长运营(J13421)](#模型出海增长运营j13421)
 - [AI产品经理(J13348)](#ai产品经理j13348)
 - [PMO经理-项目管理方向(J13553)](#pmo经理-项目管理方向j13553)
-<!--  -->
+
 - PMO经理-产品管理方向(J13554)`(nc)`[↗](https://iflytek.zhiye.com/campus/detail?jobAdId=7438c192-246b-4619-bec9-666e757808dc)
 
 ### 营销类（12）
@@ -122,7 +122,7 @@ layout: splash
 - [市场经理(J13429)](#市场经理j13429)
 - [市场营销策划(J13451)](#市场营销策划j13451)
 - [售前咨询(J13434)](#售前咨询j13434)
-<!--  -->
+
 - 电商运营经理-直播方向(J13406)`(nc)`[↗](https://iflytek.zhiye.com/campus/detail?jobAdId=4696bfeb-0e1e-4f21-88c0-a5dca09efdab)
 - 零售运营-学习机方向(J13419)`(nc)`[↗](https://iflytek.zhiye.com/campus/detail?jobAdId=f32c3d6f-dff3-4050-bec7-8704f6f984e9)
 - 履约管理工程师(J13420)`(nc)`[↗](https://iflytek.zhiye.com/campus/detail?jobAdId=d95bc420-a28e-4f35-bd4b-2de29586aff1)
@@ -135,7 +135,7 @@ layout: splash
 
 - [视觉设计师-品牌设计方向(J13433)](#视觉设计师-品牌设计方向j13433)
 - [UI设计工程师(J13395)](#ui设计工程师j13395)
-<!--  -->
+
 - 交互设计工程师(J13414)`(nc)`[↗](https://iflytek.zhiye.com/campus/detail?jobAdId=c585a883-dd51-42d7-b203-5541f337260d)
 - 视觉设计工程师(J13431)`(nc)`[↗](https://iflytek.zhiye.com/campus/detail?jobAdId=d94a3f99-a035-4341-91f3-2afd736e3ff6)
 - 视觉设计工程师-K12教育UI方向(J13432)`(nc)`[↗](https://iflytek.zhiye.com/campus/detail?jobAdId=62994a13-840c-4c84-a5b7-d06d324f595f)
@@ -144,7 +144,7 @@ layout: splash
 ### 教育类（2）
 
 - [课程产品经理-教育技术学方向(J13418)](#课程产品经理-教育技术学方向j13418)
-<!--  -->
+
 - 视教育技术研究员(J13415)`(nc)`[↗](https://iflytek.zhiye.com/campus/detail?jobAdId=7163b860-def8-4dc7-bf37-58d4f4ae866c)
 
 ### 医学类（1）
@@ -156,7 +156,7 @@ layout: splash
 - [人工智能科普官(J13425)](#人工智能科普官j13425)
 - [项目管理工程师-PMO(J13435)](#项目管理工程师-pmoj13435)
 - [运营管理(J13443)](#运营管理j13443)
-<!--  -->
+
 - 财经会计(J13397)`(nc)`[↗](https://iflytek.zhiye.com/campus/detail?jobAdId=71e1034f-a8c6-4977-99b5-cf94f5352fde)
 - 合同商务工程师(J13409)`(nc)`[↗](https://iflytek.zhiye.com/campus/detail?jobAdId=874b6071-5fe1-49c0-937b-eb48a4521f81)
 - 品牌经理-学习机方向(J13422)`(nc)`[↗](https://iflytek.zhiye.com/campus/detail?jobAdId=54ab6063-13b8-47e4-864c-3026625690ea)
@@ -166,13 +166,13 @@ layout: splash
 - 资质申报师(J13446)`(nc)`[↗](https://iflytek.zhiye.com/campus/detail?jobAdId=e7e930d3-2ccf-42eb-9961-f1d3eafb2491)
 - 行政支持(J13552)`(nc)`[↗](https://iflytek.zhiye.com/campus/detail?jobAdId=79e6862b-579e-4d1f-92e2-3eed400e9464)
 
-### 资源类（2）
+### 资源类（3）
 
 - [大模型数据项目经理(J13404)](#大模型数据项目经理j13404)
 - [语言学研究员(J13441)](#语言学研究员j13441)
 - [AI数据工程师-基座大模型方向(J13364)](#ai数据工程师-基座大模型方向j13364)
 
-### 交付类（3）
+### 交付类（2）
 
 - [交付项目经理(J13413)](#交付项目经理j13413)
 - [项目经理-医疗方向(J13436)](#项目经理-医疗方向j13436)
@@ -182,7 +182,7 @@ layout: splash
 - [工程设计师(J13407)](#工程设计师j13407)
 - [工程深化设计师(J13408)](#工程深化设计师j13408)
 - [技术工程师-计算网络(J13412)](#技术工程师-计算网络j13412)
-<!--  -->
+
 - 实施工程师(J13428)`(nc)`[↗](https://iflytek.zhiye.com/campus/detail?jobAdId=85cc49ee-e68d-4dd2-b805-d7a6eb7d9145)
 
 <!--  -->
