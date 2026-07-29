@@ -1,6 +1,6 @@
 ---
 title: "科大讯飞_27届秋招"
-last_modified_at: 2026-07-29T16:20:02-05:00
+last_modified_at: 2026-07-30T16:20:02-05:00
 categories:
   - recam
 # tags:
@@ -12,7 +12,7 @@ layout: splash
 ---
 
 # 科大讯飞_27届秋招
-`更新-260729` \| `发布-260725`
+`更新-260730` \| `发布-260725`
 
 <!--  -->
 <details markdown="block">
@@ -25,12 +25,18 @@ layout: splash
 <!--  -->
 <details markdown="block">
   <summary>ℹ️ 更新</summary>
+260730：修正岗位列表链接<br>
 260729：收录余下岗位<br>
 260728：收录若干岗位<br>
 260727：增加岗位分类<br>
 260727：增加20个岗位
 </details>
 <br>
+
+---
+
+<!--  -->
+## 招聘信息
 
 <img src="https://img.gdvzz.com/brc/y27/iflytek.jpg" alt="brc-y27-iflytek" style=" width: auto; height: auto; max-width: 100%;">
 <br>
@@ -41,6 +47,27 @@ layout: splash
 <!-- - 🌟 温馨提示：2026年校招中国电信将同时在自建网站 https://job.chinatelecom.com.cn/ 和合作网站 http://campus.51job.com/chinatelecom 收取简历；**每个学生最多可以投五家单位，每个单位最多投递2个岗位** -->
 - 🛑 截止日期：不详
 
+---
+
+<!--  -->
+## 雇主简介
+
+<img src="https://img.gdvzz.com/logo/i/IFlytek_logo.png" alt="iflytek" style="max-height: 2rem; width: auto; height: auto; max-width: 100%;">
+<br>
+
+公司简介：[链接↗](https://www.iflytek.com/about.html)
+
+---
+
+<!--  -->
+## 投递建议
+
+- 人工智能领域著名企业 、上市公司，可积极尝试投递。
+- 若需要协助和商讨，可联系QQ群中的董老师。
+
+---
+
+<!--  -->
 ## 岗位列表
 
 ### 算发研究类（24）
@@ -79,7 +106,7 @@ layout: splash
 - [研发质量管理工程师(J13450)](#研发质量管理工程师j13450)
 - [移动端开发工程师-Android(J13437)](#移动端开发工程师-androidj13437)
 - [运维开发工程师-SRE方向(J13442)](#运维开发工程师-sre方向j13442)
-- [C++开发工程师(J13392)](#c++开发工程师j13392)
+- [C++开发工程师(J13392)](#c开发工程师j13392)
 - [GO开发工程师(J13393)](#go开发工程师j13393)
 - [Java开发工程师(J13394)](#java开发工程师j13394)
 
@@ -101,7 +128,7 @@ layout: splash
 
 ### 大数据类（1）
 
-- [大数据工程师(J13405)](大数据工程师j13405)
+- [大数据工程师(J13405)](#大数据工程师j13405)
 
 ### 产品类（7）
 
@@ -133,7 +160,6 @@ layout: splash
 
 ### 设计类（5）
 
-- [视觉设计师-品牌设计方向(J13433)](#视觉设计师-品牌设计方向j13433)
 - [UI设计工程师(J13395)](#ui设计工程师j13395)
 
 - 交互设计工程师(J13414)`(nc)`[↗](https://iflytek.zhiye.com/campus/detail?jobAdId=c585a883-dd51-42d7-b203-5541f337260d)
@@ -169,7 +195,7 @@ layout: splash
 ### 资源类（3）
 
 - [大模型数据项目经理(J13404)](#大模型数据项目经理j13404)
-- [语言学研究员(J13441)](#语言学研究员j13441)
+- [语言学研究员-家庭陪伴机器人交互语料方向(J13441)](#语言学研究员-家庭陪伴机器人交互语料方向j13441)
 - [AI数据工程师-基座大模型方向(J13364)](#ai数据工程师-基座大模型方向j13364)
 
 ### 交付类（2）
@@ -184,6 +210,8 @@ layout: splash
 - [技术工程师-计算网络(J13412)](#技术工程师-计算网络j13412)
 
 - 实施工程师(J13428)`(nc)`[↗](https://iflytek.zhiye.com/campus/detail?jobAdId=85cc49ee-e68d-4dd2-b805-d7a6eb7d9145)
+
+---
 
 <!--  -->
 ## 技术支持工程师(J13556)
