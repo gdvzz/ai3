@@ -24,6 +24,18 @@ github_username: username
 minimal_mistakes_skin: default
 search: true
 
+# 以下是新增
+
+breadcrumbs: true  # disabled by default
+enable_copy_code_button: true # enable a copy button on code blocks
+
+search_full_content: true         # 2. (可选) 索引全部内容
+search_provider: lunr             # 3. (可选) 指定 lunr 为搜索提供者，此为默认值[reference:16]
+lunr:                             # 4. Lunr 专属配置
+  search_within_pages: true       #    让 Lunr 也索引普通页面
+  
+# 新增结束
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
