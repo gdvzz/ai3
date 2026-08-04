@@ -11,7 +11,7 @@ layout: splash
 # classes: wide   # 就这一行，让页面变宽
 ---
 
-# B站_27届秋招(🛑1231)
+# B站_27届秋招(🛑1231)(待续)
 {: .no_toc }
 `更新-260804` \| `发布-260804`
 
@@ -33,7 +33,7 @@ layout: splash
 <!--  -->
 ## 招聘信息
 
-<img src="https://img.gdvzz.com/brc/y27/bilibili.jpg" alt="brc-y27-bilibili" style=" width: auto; height: auto; max-width: 100%;">
+<img src="https://img.gdvzz.com/brc/y27/bilibili.png" alt="brc-y27-bilibili" style=" width: auto; height: auto; max-width: 100%;">
 <br>
 
 <!--  -->
@@ -1079,3 +1079,4 @@ layout: splash
 
 <!--  -->
 <span style="font-size:12px; color:#999">THE END</span>
+
