@@ -37,7 +37,7 @@ layout: splash
 <br> -->
 
 <!--  -->
-- ⚛️ 招聘官网：[新石器人才招聘↗](hhttps://r3c0qt6yjw.jobs.feishu.cn/campus)
+- ⚛️ 招聘官网：[新石器人才招聘↗](https://r3c0qt6yjw.jobs.feishu.cn/campus)
 <!-- - ❇️ 招聘官微：[字节跳动 2027 校园招聘正式启动！↗](https://mp.weixin.qq.com/s/hBXu8m3U5RbGyIR-xPkEtg)`（等你加入的 字节跳动招聘 2026年8月3日 17:53 上海）` -->
 - 🛑 截止日期：不详
 
