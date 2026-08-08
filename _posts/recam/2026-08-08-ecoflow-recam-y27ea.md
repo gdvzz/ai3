@@ -85,7 +85,7 @@ layout: splash
 3. 对新能源有一定了解，致力于在新能源领域发展；
 4. 具备互联网公司或智能硬件公司实习经历优先。
 
-https://jobs.ecoflow.com/602892/position/7662352504873077011/detail
+[官网投递↗](https://jobs.ecoflow.com/602892/position/7662352504873077011/detail)
 
 <!--  -->
 ## AI算法工程师
@@ -109,7 +109,7 @@ https://jobs.ecoflow.com/602892/position/7662352504873077011/detail
 5. 对时间序列建模和营销场景推荐、效果预估、效果分析等领域有一定的经验优先；会使用spark、hadoop、hive等分布式计算优先；
 6. 较强的业务敏感度，数据敏感度的优先。
 
-https://jobs.ecoflow.com/602892/position/7662351550928734506/detail
+[官网投递↗](https://jobs.ecoflow.com/602892/position/7662351550928734506/detail)
 
 <!--  -->
 ## 后端工程师
@@ -128,7 +128,7 @@ https://jobs.ecoflow.com/602892/position/7662351550928734506/detail
 3. 有扎实的计算机基础，熟悉数据结构和常用算法;
 4. 有完整项目开发实习经验优先。
 
-https://jobs.ecoflow.com/602892/position/7662349114207013146/detail
+[官网投递↗](https://jobs.ecoflow.com/602892/position/7662349114207013146/detail)
 
 <!--  -->
 ## 嵌入式软件工程师
@@ -151,7 +151,7 @@ https://jobs.ecoflow.com/602892/position/7662349114207013146/detail
 5. 具有良好的逻辑思维能力，沟通表达能力，具有较强的工作责任心和团队协作能力。
 6. 嵌入式实习经验优先,能源行业（EMS/BMS)实习为加分项。
 
-https://jobs.ecoflow.com/602892/position/7662348912346417427/detail
+[官网投递↗](https://jobs.ecoflow.com/602892/position/7662348912346417427/detail)
 
 <!--  -->
 <span style="font-size:12px; color:#999">THE END</span>
