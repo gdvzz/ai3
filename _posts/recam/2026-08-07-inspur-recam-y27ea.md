@@ -255,13 +255,12 @@ layout: splash
 | [职能管培生](#职能管培生) | 浪潮计算机科技有限公司 | 山东省济南市 | 硕士及以上 | 2026-07-21 | 职能管理类 |
 
 
-
-
+以下岗位未收录：
 
 | 职位名称 | 所属单位 | 工作城市 | 学历要求 | 发布时间 | 职位类别 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | 财务核算专员 `(nc)` [↗](https://inspur.hcmcloud.cn/recruit#/portal_job_detail?id=_HB5_NjAwOTU%253D)| 浪潮通信信息系统有限公司 | 山东省济南市 | 硕士及以上 | 2026-07-28 | 职能管理类 |
-| 财务专员`(nc)` [↗](https://inspur.hcmcloud.cn/recruit#/portal_job_detail?id=_HB5_NjAwOTQ%253D)  | 浪潮计算机科技有限公司 | 山东省济南市 | 硕士及以上 | 2026-07-28 | 职能管理类 |
+<!-- | 财务专员`(nc)` [↗](https://inspur.hcmcloud.cn/recruit#/portal_job_detail?id=_HB5_NjAwOTQ%253D)  | 浪潮计算机科技有限公司 | 山东省济南市 | 硕士及以上 | 2026-07-28 | 职能管理类 |
 | 管理培训生（后台）`(nc)` [↗](https://inspur.hcmcloud.cn/recruit#/portal_job_detail?id=_HB5_NTk4Nzc%253D) | 山东汇通金融租赁有限公司 | 山东省济南市 | 硕士及以上 | 2026-07-21 | 职能管理类 |
 | 客户经理 `(nc)` [↗](https://inspur.hcmcloud.cn/recruit#/portal_job_detail?id=_HB5_NjAwOTM%253D) | 浪潮集团财务有限公司 | 山东省济南市 | 硕士及以上 | 2026-07-28 | 职能管理类 |
 | 人力资源管培生（HRBP方向）(nc)` [↗](https://inspur.hcmcloud.cn/recruit#/portal_job_detail?id=_HB5_NTkaMjQ%253D)  | 浪潮云洲工业互联网有限公司 | 山东省济南市 | 硕士及以上 | 2026-07-21 | 职能管理类 |
@@ -270,7 +269,7 @@ layout: splash
 | 人力资源管培生`(nc)` [↗](https://inspur.hcmcloud.cn/recruit#/portal_job_detail?id=_HB5_NTkaNjk%253D) |  浪潮数字企业技术有限公司 | 山东省济南市 | 本科及以上 | 2026-07-21 | 职能管理类 |
 | 职能管培生`(nc)` [↗](https://inspur.hcmcloud.cn/recruit#/portal_job_detail?id=_HB5_NTkaNjg%253D) | 浪潮数字企业技术有限公司 | 山东省济南市 | 本科及以上 | 2026-07-21 | 职能管理类 |
 | 综合职能专员 `(nc)` [↗](https://inspur.hcmcloud.cn/recruit#/portal_job_detail?id=_HB5_NjAwMTI%253D) | 云装备 | 山东省济南市 | 硕士及以上 | 2026-07-21 | 职能管理类 |
-| 综合职能专员（博士）`(nc)` [↗](https://inspur.hcmcloud.cn/recruit#/portal_job_detail?id=_HB5_NjAwMzM%253D) | 云装备 | 山东省济南市 | 博士研究生 | 2026-07-21 | 职能管理类 |
+| 综合职能专员（博士）`(nc)` [↗](https://inspur.hcmcloud.cn/recruit#/portal_job_detail?id=_HB5_NjAwMzM%253D) | 云装备 | 山东省济南市 | 博士研究生 | 2026-07-21 | 职能管理类 | -->
 
 <!--  -->
 ## 供应交付工程师1
