@@ -10,15 +10,15 @@ categories:
 layout: splash
 # classes: wide   # 就这一行，让页面变宽
 
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
-header:
-  overlay_image: /assets/images/brc/y27/hundsun.png
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "招聘官网"
-      url: "https://campus.hundsun.com/campus"
-    - label: "Bar Button"
-      url: "#bar"
+# excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+# header:
+#   overlay_image: /assets/images/brc/y27/hundsun.png
+#   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+#   actions:
+#     - label: "招聘官网"
+#       url: "https://campus.hundsun.com/campus"
+#     - label: "Bar Button"
+#       url: "#bar"
 ---
 
 # 恒生电子_27届秋招
@@ -43,13 +43,14 @@ header:
 <!--  -->
 ## 招聘信息
 
-<!-- <img src="/assets/images/brc/y27/ecoflow.png" alt="brc-y27-ecoflow" style=" width: auto; height: auto; max-width: 100%;">
-<br> -->
+<img src="/assets/images/brc/y27/hundsun.png" alt="brc-y27-hundsun" style=" width: auto; height: auto; max-width: 100%;">
+<br>
 
 <!--  -->
 - ⚛️ 招聘官网：[恒生2027校园招聘↗](https://campus.hundsun.com/campus)
 - ❇️ 招聘官微：待补充
 - 🛑 截止日期：不详
+- [恒生2027届校园大使招募启动！↗](https://mp.weixin.qq.com/s/8hWj1p1ojiET6agBsddztA) `（恒生招聘 2026年7月24日 16:27 浙江）`
 
 <!--  -->
 ## 雇主简介
@@ -58,6 +59,7 @@ header:
 <br> -->
 
 - [了解恒生↗](https://campus.hundsun.com/)
+- [在恒生，“工作一年了”是种什么感觉？↗](https://mp.weixin.qq.com/s/f0StDUTNjfqd4_o7-m109g) `（27秋招倒计时 恒生招聘 2026年8月7日 17:00 浙江）`
 
 <!--  -->
 ## 投递建议
@@ -65,21 +67,21 @@ header:
 - 若需要协助、商讨、✅**速成** 等等，可联系QQ群中的董老师。
 
 <!--  -->
-## 岗位列表
+## 岗位列表（13/15）
 
-- [测试开发工程师(J10361)](#测试开发工程师(j10361))
-- [交付工程师(J10357)](#交付工程师(j10357))
-- [模型后训练工程师(J10369)](#模型后训练工程师(j10369))
-- [软件测试工程师(J10362)](#软件测试工程师(j10362))
-- [算法工程师(J10356)](#算法工程师(j10356))
-- [维护工程师(J10360)](#维护工程师(j10360))
-- [需求分析师(J10368)](#需求分析师(j10368))
-- [运维工程师(J10366)](#运维工程师(j10366))
-- [智能体开发工程师(J10370)](#智能体开发工程师(j10370))
-- [AI应用开发工程师(J10355)](#ai应用开发工程师(j10355))
-- [C/C++开发工程师(J10358)](#c/c++开发工程师(j10358))
-- [FPGA开发工程师(J10364)](#fpga开发工程师(j10364))
-- [Java开发工程师(J10359)](#java开发工程师(j10359))
+- [测试开发工程师(J10361)](#测试开发工程师j10361)
+- [交付工程师(J10357)](#交付工程师j10357)
+- [模型后训练工程师(J10369)](#模型后训练工程师j10369)
+- [软件测试工程师(J10362)](#软件测试工程师j10362)
+- [算法工程师(J10356)](#算法工程师j10356)
+- [维护工程师(J10360)](#维护工程师j10360)
+- [需求分析师(J10368)](#需求分析师j10368)
+- [运维工程师(J10366)](#运维工程师j10366)
+- [智能体开发工程师(J10370)](#智能体开发工程师j10370)
+- [AI应用开发工程师(J10355)](#ai应用开发工程师j10355)
+- [C/C++开发工程师(J10358)](#cc++开发工程师j10358)
+- [FPGA开发工程师(J10364)](#fpga开发工程师j10364)
+- [Java开发工程师(J10359)](#java开发工程师j10359)
 
 以下岗位未收录。感兴趣同学可访问官网获得信息并投递。
 
