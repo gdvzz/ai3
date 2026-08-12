@@ -96,6 +96,8 @@ layout: splash
 - [FDE解决方案工程师 ](#fde解决方案工程师)
 - [PMO项目管理经理 ](#pmo项目管理经理)
 
+<span style="font-size:12px; color:#999">eos_岗位列表</span>
+
 <!--  -->
 ## 销售工程师（To B） 
 - 职位类别：销售类-销售
@@ -119,7 +121,7 @@ layout: splash
 3. 优秀的人际交往能力，有丰富的社团工作或学生工作经历；
 4. 在校有过自主创业经历或者类销售赚钱经历的优先。
 
-https://join.fanruan.com/campus/detail?id=9881
+[官网投递↗](https://join.fanruan.com/campus/detail?id=9881)
 
 <!--  -->
 ## 渠道运营 
@@ -149,7 +151,7 @@ https://join.fanruan.com/campus/detail?id=9881
 6. 具备较好的文字表达和内容整理能力，能够独立完成活动方案、运营文档、汇报材料等内容；
 7. 学习能力强，愿意主动了解产品、业务及客户需求，不排斥销售沟通和线下活动执行。
 
-https://join.fanruan.com/campus/detail?id=9883
+[官网投递↗](https://join.fanruan.com/campus/detail?id=9883)
 
 <!--  -->
 ## FDE解决方案工程师 
@@ -174,7 +176,7 @@ https://join.fanruan.com/campus/detail?id=9883
 3. 熟悉前后端开发框架，如前端JavaScript/TypeScript + Vue3/React，后端端Fastapi（Python）、Spring boot（Java），有实践项目者优先；
 4. 擅长结构化表达与框架思维能力，能够快速适应 AI 落地场景理解，吸收 GitHub 项目、英文产品文档等信息资源的能力。 说明：如有独立 Agent 场景实现经验者，投稿时直接附上对应应用场景可获得直通车。
 
-https://join.fanruan.com/campus/detail?id=9889
+[官网投递↗](https://join.fanruan.com/campus/detail?id=9889)
 
 <!--  -->
 ## 售前工程师 
@@ -200,7 +202,7 @@ https://join.fanruan.com/campus/detail?id=9889
 3. 有较强的文案和DEMO制作能力，对行业客户和同类型客户有方案概括能力，并能制作销售工具，形成有效售前支撑；
 4. 具有较好的协调与协作精神，能与销售人员形成搭配，进行方案设计和需求挖掘，促进销售成单，并扩大成单金额。
 
-https://join.fanruan.com/campus/detail?id=9885
+[官网投递↗](https://join.fanruan.com/campus/detail?id=9885)
 
 <!--  -->
 ## 项目经理 
@@ -228,7 +230,7 @@ https://join.fanruan.com/campus/detail?id=9885
 5. 有一定的实践能力，参与过学校实验课程者优先，熟悉帆软产品或通过FRCA、FCBA者优先
 6. 具备一定项目交付经验、软件系统交付经验（开发、测试、交付、上线）者优先
 
-https://join.fanruan.com/campus/detail?id=9879
+[官网投递↗](https://join.fanruan.com/campus/detail?id=9879)
 
 <!--  -->
 ## PMO项目管理经理 
@@ -254,7 +256,7 @@ https://join.fanruan.com/campus/detail?id=9879
 3. 具备优秀的沟通能力、项目管理能力以及跨部门协同推进能力
 4. 具备良好的责任心和自我驱动力，保持积极乐观的态度‌，处理好团队与伙伴之间的关系
 
-https://join.fanruan.com/campus/detail?id=9877
+[官网投递↗](https://join.fanruan.com/campus/detail?id=9877)
 
 <!--  -->
 ## 项目运维经理 
@@ -279,7 +281,7 @@ https://join.fanruan.com/campus/detail?id=9877
 4. 掌握项目运维相关流程，了解it互联网大数据主流技术知识；
 5. 了解Linux系统，熟悉基本的操作；了解主流的虚拟化平台。
 
-https://join.fanruan.com/campus/detail?id=9878
+[官网投递↗](https://join.fanruan.com/campus/detail?id=9878)
 
 <!--  -->
 ## 技术支持工程师（储备客户成功） 
@@ -318,7 +320,7 @@ https://join.fanruan.com/campus/detail?id=9878
 4. 有上进心，自驱力强，渴望成就自己、成就他人；
 5. 具备团队合作精神，也有独立推进事务的意愿。
 
-https://join.fanruan.com/campus/detail?id=9882
+[官网投递↗](https://join.fanruan.com/campus/detail?id=9882)
 
 <!--  -->
 ## 人力资源管培生 
@@ -346,7 +348,7 @@ https://join.fanruan.com/campus/detail?id=9882
 2. 良好的沟通能力，优秀的人际交往能力；有销售、运营等实习经历，或在校实践经验丰富的优先；
 3. 思维灵活，自我驱动，责任感和抗压能力强，注重团队合作。
 
-https://join.fanruan.com/campus/detail?id=9880
+[官网投递↗](https://join.fanruan.com/campus/detail?id=9880)
 
 <!--  -->
 <span style="font-size:12px; color:#999">THE END</span>
