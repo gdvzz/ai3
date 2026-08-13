@@ -10,7 +10,7 @@ categories:
 layout: splash
 # classes: wide   # 就这一行，让页面变宽
 
-excerpt: "博世（世界500强）BCSC 27届秋招岗位"
+excerpt: "博世（世界500强）BCSC 27届秋招岗位 ~20个"
 # header:
 #   overlay_image: /assets/images/brc/y27/hundsun.png
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -68,29 +68,29 @@ excerpt: "博世（世界500强）BCSC 27届秋招岗位"
 <!--  -->
 ## 岗位列表
 
-- [测试开发工程师(27届校招)_BCSC](#测试开发工程师(27届校招)_bcsc)
-- [大模型算法工程师(27届校招)_BCSC](#大模型算法工程师(27届校招)_bcsc)
-- [底盘域底软开发工程师(27届校招)_BCSC](#底盘域底软开发工程师(27届校招)_bcsc)
-- [辅助驾驶感知算法工程师(27届校招)_BCSC](#辅助驾驶感知算法工程师(27届校招)_bcsc)
+- [测试开发工程师(27届校招)_BCSC](#测试开发工程师27届校招_bcsc)
+- [大模型算法工程师(27届校招)_BCSC](#大模型算法工程师27届校招_bcsc)
+- [底盘域底软开发工程师(27届校招)_BCSC](#底盘域底软开发工程师27届校招_bcsc)
+- [辅助驾驶感知算法工程师(27届校招)_BCSC](#辅助驾驶感知算法工程师27届校招_bcsc)
 - [辅助驾驶功能开发工程师(27届校招)_BCSC](#辅助驾驶功能开发工程师(27届校招)_bcsc)
-- [辅助驾驶数据运营工程师(27届校招)_BCSC](#辅助驾驶数据运营工程师(27届校招)_bcsc)
-- [辅助驾驶预测算法开发工程师(27届校招)_BCSC](#辅助驾驶预测算法开发工程师(27届校招)_bcsc)
-- [辅助驾驶自动化测试工程师(27届校招)_BCSC](#辅助驾驶自动化测试工程师(27届校招)_bcsc)
-- [网络安全软件工程师(27届校招)_BCSC](#网络安全软件工程师(27届校招)_bcsc)
-- [悬架软件开发工程师(27届校招)_BCSC](#悬架软件开发工程师(27届校招)_bcsc)
-- [智能家居测试开发工程师(27届校招)_BCSC](#智能家居测试开发工程师(27届校招)_bcsc)
-- [智能家居嵌入式软件工程师(27届校招)_BCSC](#智能家居嵌入式软件工程师(27届校招)_bcsc)
-- [AI平台与MLOps工程师(27届校招)_BCSC](#ai平台与mlops工程师(27届校招)_bcsc)
-- [Autosar基础软件开发(27届校招)_BCSC](#autosar基础软件开发(27届校招)_bcsc)
-- [BMS软件开发工程师(27届校招)_BCSC](#bms软件开发工程师(27届校招)_bcsc)
-- [BSP嵌入式软件工程(27届校招)_BCSC](#bsp嵌入式软件工程(27届校招)_bcsc)
-- [C++软件工程师(27届校招)_BCSC](#c软件工程师(27届校招)_bcsc)
+- [辅助驾驶数据运营工程师(27届校招)_BCSC](#辅助驾驶数据运营工程师27届校招_bcsc)
+- [辅助驾驶预测算法开发工程师(27届校招)_BCSC](#辅助驾驶预测算法开发工程师27届校招_bcsc)
+- [辅助驾驶自动化测试工程师(27届校招)_BCSC](#辅助驾驶自动化测试工程师27届校招_bcsc)
+- [网络安全软件工程师(27届校招)_BCSC](#网络安全软件工程师27届校招_bcsc)
+- [悬架软件开发工程师(27届校招)_BCSC](#悬架软件开发工程师27届校招_bcsc)
+- [智能家居测试开发工程师(27届校招)_BCSC](#智能家居测试开发工程师27届校招_bcsc)
+- [智能家居嵌入式软件工程师(27届校招)_BCSC](#智能家居嵌入式软件工程师27届校招_bcsc)
+- [AI平台与MLOps工程师(27届校招)_BCSC](#ai平台与mlops工程师27届校招_bcsc)
+- [Autosar基础软件开发(27届校招)_BCSC](#autosar基础软件开发27届校招_bcsc)
+- [BMS软件开发工程师(27届校招)_BCSC](#bms软件开发工程师27届校招_bcsc)
+- [BSP嵌入式软件工程(27届校招)_BCSC](#bsp嵌入式软件工程27届校招_bcsc)
+- [C++软件工程师(27届校招)_BCSC](#c软件工程师27届校招_bcsc)
 
 <!--  -->
+- 车身软件开发工程师(27届校招)_BCSC  `(nc)` [↗](https://app.mokahr.com/campus-recruitment/bosch/150946#/job/e1f9cbb2-4197-4ef9-afab-e00c587c1ad4)
+- 动力域控软件开发工程师(27届校招)_BCSC  `(nc)` [↗](https://app.mokahr.com/campus-recruitment/bosch/150946#/job/3f072829-e012-41a2-9b6e-14dd9e6d6c95)
 - 动力域嵌入式软件开发工程师(27届校招)_BCSC  `(nc)` [↗](https://app.mokahr.com/campus-recruitment/bosch/150946#/job/72414d68-9c8c-4ef3-8cfa-30c1158f728c)
 - 硬件工程师-低压控制器(27届校招)_BCSC  `(nc)` [↗](https://app.mokahr.com/campus-recruitment/bosch/150946#/job/67e6a62f-a9ce-4459-bf34-3d4a71556be8)
-- 动力域控软件开发工程师(27届校招)_BCSC  `(nc)` [↗](https://app.mokahr.com/campus-recruitment/bosch/150946#/job/3f072829-e012-41a2-9b6e-14dd9e6d6c95)
-- 车身软件开发工程师(27届校招)_BCSC  `(nc)` [↗](https://app.mokahr.com/campus-recruitment/bosch/150946#/job/e1f9cbb2-4197-4ef9-afab-e00c587c1ad4)
 
 <span style="font-size:12px; color:#999">eos_岗位列表</span>
 
@@ -101,6 +101,7 @@ excerpt: "博世（世界500强）BCSC 27届秋招岗位"
 <!-- 申请职位 -->
 
 <!-- **职位描述** -->
+
 **Job Description:**
 1. 协助开展端到端(end-to-end)预测-决策-规划大模型的研发工作。
 2. 协助AI模型的前处理和后处理开发。
@@ -115,7 +116,7 @@ excerpt: "博世（世界500强）BCSC 27届秋招岗位"
 5. 有人工智能领域top会议/期刊(例如：CVPR, ICLR, NeurIPS, ICML等)发表者优先。
 
 
-https://app.mokahr.com/campus-recruitment/bosch/150946#/job/1cd6260f-5d51-4276-aa70-430b635eef1e
+[官网投递↗](https://app.mokahr.com/campus-recruitment/bosch/150946#/job/1cd6260f-5d51-4276-aa70-430b635eef1e)
 
 <!--  -->
 ## 大模型算法工程师(27届校招)_BCSC
@@ -123,6 +124,7 @@ https://app.mokahr.com/campus-recruitment/bosch/150946#/job/1cd6260f-5d51-4276-a
 `发布于 2026-08-12`
 <!-- 申请职位 -->
 <!-- 职位描述 -->
+
 **Job Description:**
 
 - 参与AI Agent服务平台的核心算法能力建设，协助完成Agent运行时框架（Agent Harness）与上下文工程（Context Engineering）相关功能的迭代与优化。
@@ -144,7 +146,7 @@ https://app.mokahr.com/campus-recruitment/bosch/150946#/job/1cd6260f-5d51-4276-a
 - 有阅读前沿论文并复现的能力，有顶会论文或开源项目贡献者优先（加分项，非必需）；
 - 具备良好的沟通协作能力与自驱力，能够快速理解业务需求并转化为技术方案。
  
-https://app.mokahr.com/campus-recruitment/bosch/150946#/job/74a36dfc-e0ec-4ebd-a28c-8e2b572fa1e1
+[官网投递↗](https://app.mokahr.com/campus-recruitment/bosch/150946#/job/74a36dfc-e0ec-4ebd-a28c-8e2b572fa1e1)
 
 <!--  -->
 ## AI平台与MLOps工程师(27届校招)_BCSC
@@ -153,6 +155,7 @@ https://app.mokahr.com/campus-recruitment/bosch/150946#/job/74a36dfc-e0ec-4ebd-a
 发布于 2026-08-10 无锡`
 <!-- 申请职位
 职位描述 -->
+
 **Job Description:**
 - 参与AI平台与MLOps/LLMOps体系的建设与维护，协助完成LLM服务及AI Agent服务在内部平台的部署与日常运维。
 - 支持大模型后训练任务（如SFT、DPO等）的工程化落地，配合进行多机多卡分布式训练环境的配置与效率调优。
@@ -162,7 +165,7 @@ https://app.mokahr.com/campus-recruitment/bosch/150946#/job/74a36dfc-e0ec-4ebd-a
 - 配合完成应用访问控制、密钥管理等安全合规操作，满足内部安全与合规要求。
 - 与算法工程师及软件开发团队紧密协作，跟进需求并推动服务上线。
 
-** Job Qualification:**
+**Job Qualification:**
 - 计算机科学、软件工程、人工智能、电子信息技术等相关专业，2026届硕士及以上学历；
 - 熟练掌握至少一门开发语言（Python/Go/TypeScript/Java等），有基础的后端开发或脚本编写能力；
 - 了解容器化与编排技术，熟悉Docker基本操作，接触过Kubernetes或了解其核心概念（Pod、Service、Ingress等）；
@@ -172,7 +175,7 @@ https://app.mokahr.com/campus-recruitment/bosch/150946#/job/74a36dfc-e0ec-4ebd-a
 - 有公有云（AWS/Azure/阿里云等）使用经验者优先；
 - 具备良好的学习能力与问题排查能力，能够快速跟进新技术。
 
-https://app.mokahr.com/campus-recruitment/bosch/150946#/job/d23720c9-9408-4327-9c0d-357060775265
+[官网投递↗](https://app.mokahr.com/campus-recruitment/bosch/150946#/job/d23720c9-9408-4327-9c0d-357060775265)
 
 <!--  -->
 ## 底盘域底软开发工程师(27届校招)_BCSC
@@ -181,6 +184,7 @@ https://app.mokahr.com/campus-recruitment/bosch/150946#/job/d23720c9-9408-4327-9
 发布于 2026-08-07 无锡`
 <!-- 申请职位
 职位描述 -->
+
 **Job Description:**
 
 - 实施项目特定的软件变更（配置文件、BB编号、功能开关更新等）；
@@ -201,7 +205,7 @@ https://app.mokahr.com/campus-recruitment/bosch/150946#/job/d23720c9-9408-4327-9
 - 具备多任务协调能力；
 - 思路清晰，具备适当的问题分析和解决能力。
 
-https://app.mokahr.com/campus-recruitment/bosch/150946#/job/6b47e331-2d3c-4579-9afc-735395b03805
+[官网投递↗](https://app.mokahr.com/campus-recruitment/bosch/150946#/job/6b47e331-2d3c-4579-9afc-735395b03805)
 
 <!--  -->
 ## 测试开发工程师(27届校招)_BCSC
@@ -210,6 +214,7 @@ https://app.mokahr.com/campus-recruitment/bosch/150946#/job/6b47e331-2d3c-4579-9
 发布于 2026-08-07 无锡`
 <!-- 申请职位
 职位描述 -->
+
 **Job Description:**
 1. BSW测试开发及执行：负责汽车电子控制器的BSW测试，根据需求进行测试用例设计及测试脚本开发，并严格按照测试用例执行测试任务，验证功能逻辑与性能边界。
 2. 问题记录与分析：准确记录测试过程中发现的系统异常、功能缺陷等情况，并进行问题分类、日志提取与复盘分析。
@@ -223,7 +228,7 @@ https://app.mokahr.com/campus-recruitment/bosch/150946#/job/6b47e331-2d3c-4579-9
 3. 对 AI 技术有浓厚兴趣，能熟练使用各类 AI 工具辅助进行日志分析、文档撰写或提升日常工作效率。
 
  
-https://app.mokahr.com/campus-recruitment/bosch/150946#/job/594a5dd9-3748-4e7d-901e-a870ec13552a
+[官网投递↗](https://app.mokahr.com/campus-recruitment/bosch/150946#/job/594a5dd9-3748-4e7d-901e-a870ec13552a)
 
 <!--  -->
 ## BMS软件开发工程师(27届校招)_BCSC
@@ -232,6 +237,7 @@ https://app.mokahr.com/campus-recruitment/bosch/150946#/job/594a5dd9-3748-4e7d-9
 发布于 2026-08-07 Wuxi`
 <!-- 申请职位
 职位描述 -->
+
 **Job Description:**
 
 项目背景：
@@ -254,7 +260,7 @@ https://app.mokahr.com/campus-recruitment/bosch/150946#/job/594a5dd9-3748-4e7d-9
 - 对BMS技术有浓厚兴趣，了解MATLAB/Simulink建模与仿真流程者优先；
 - 加分项：有BMS相关课题研究经历，或参与过大学生电动方程式（电池组） 项目
 
-https://app.mokahr.com/campus-recruitment/bosch/150946#/job/7fd5e784-23b7-41c7-831a-6ed0925d4f35
+[官网投递↗](https://app.mokahr.com/campus-recruitment/bosch/150946#/job/7fd5e784-23b7-41c7-831a-6ed0925d4f35)
 
 <!--  -->
 ## 悬架软件开发工程师(27届校招)_BCSC
@@ -280,7 +286,7 @@ https://app.mokahr.com/campus-recruitment/bosch/150946#/job/7fd5e784-23b7-41c7-8
 - 对底盘域控技术有浓厚兴趣，了解MATLAB/Simulink建模与仿真流程者优先；
 - 加分项：有空气悬架/CDC项目开发经验，或参与过大学生方程式（底盘组） 项目，或有车辆动力学仿真（CarSim/ADAMS） 经验者优先。
 
-https://app.mokahr.com/campus-recruitment/bosch/150946#/job/1758b74a-a53f-4fce-b465-279fc7d14163
+[官网投递↗](https://app.mokahr.com/campus-recruitment/bosch/150946#/job/1758b74a-a53f-4fce-b465-279fc7d14163)
 
 <!--  -->
 ## 辅助驾驶数据运营工程师(27届校招)_BCSC
@@ -313,7 +319,7 @@ https://app.mokahr.com/campus-recruitment/bosch/150946#/job/1758b74a-a53f-4fce-b
 - 具备良好的英文阅读和书面表达能力，能够阅读英文技术资料及项目文档者优先；
 - 有自动驾驶数据采集、数据标注、数据质检、数据分析或相关项目实践经历者优先。
 
-https://app.mokahr.com/campus-recruitment/bosch/150946#/job/c276a9de-435b-4c11-8da8-c7858b5f4406
+[官网投递↗](https://app.mokahr.com/campus-recruitment/bosch/150946#/job/c276a9de-435b-4c11-8da8-c7858b5f4406)
 
 <!--  -->
 ## 辅助驾驶自动化测试工程师(27届校招)_BCSC
@@ -354,7 +360,7 @@ https://app.mokahr.com/campus-recruitment/bosch/150946#/job/c276a9de-435b-4c11-8
 - 有Python自动化测试、脚本开发经验；
 - 有汽车电子、嵌入式软件或相关项目经历。
 
-https://app.mokahr.com/campus-recruitment/bosch/150946#/job/77376c8b-ee1c-4329-8fb4-b9ffd5c8c482
+[官网投递↗](https://app.mokahr.com/campus-recruitment/bosch/150946#/job/77376c8b-ee1c-4329-8fb4-b9ffd5c8c482)
 
 <!--  -->
 ## 辅助驾驶感知算法工程师(27届校招)_BCSC
@@ -382,7 +388,7 @@ https://app.mokahr.com/campus-recruitment/bosch/150946#/job/77376c8b-ee1c-4329-8
 6. 熟悉经典辅助驾驶数据集（如 KITTI、nuScenes、Waymo）；
 7. 责任心强，有良好的沟通能力和团队协作意识；
 
-https://app.mokahr.com/campus-recruitment/bosch/150946#/job/0ddec5af-5c97-4b4a-babe-4d45694a4c4e
+[官网投递↗](https://app.mokahr.com/campus-recruitment/bosch/150946#/job/0ddec5af-5c97-4b4a-babe-4d45694a4c4e)
 
 <!--  -->
 ## 辅助驾驶功能开发工程师(27届校招)_BCSC
@@ -410,7 +416,7 @@ https://app.mokahr.com/campus-recruitment/bosch/150946#/job/0ddec5af-5c97-4b4a-b
 6. 良好的英语阅读与沟通表达能力，强烈的学习意愿和团队协作能力，能适应快节奏研发环境。
 
 
-https://app.mokahr.com/campus-recruitment/bosch/150946#/job/a5ed0135-3672-4912-9b99-66a5df5f77b0
+[官网投递↗](https://app.mokahr.com/campus-recruitment/bosch/150946#/job/a5ed0135-3672-4912-9b99-66a5df5f77b0)
 
 <!--  -->
 ## 智能家居测试开发工程师(27届校招)_BCSC
@@ -445,7 +451,7 @@ https://app.mokahr.com/campus-recruitment/bosch/150946#/job/a5ed0135-3672-4912-9
 - 有Python自动化测试、脚本开发经验；
 - 有汽车电子、嵌入式软件或相关项目经历。
 
-https://app.mokahr.com/campus-recruitment/bosch/150946#/job/15fed9a4-5024-4989-b0e1-ac83738aee34
+[官网投递↗](https://app.mokahr.com/campus-recruitment/bosch/150946#/job/15fed9a4-5024-4989-b0e1-ac83738aee34)
 
 <!--  -->
 ## 智能家居嵌入式软件工程师(27届校招)_BCSC
@@ -477,7 +483,7 @@ https://app.mokahr.com/campus-recruitment/bosch/150946#/job/15fed9a4-5024-4989-b
 6. 具备良好的逻辑思维和问题解决能力
 7. 有较强的学习能力和沟通协作能力
 
-https://app.mokahr.com/campus-recruitment/bosch/150946#/job/02a69cab-405a-446a-9e46-22b4e3db672b
+[官网投递↗](https://app.mokahr.com/campus-recruitment/bosch/150946#/job/02a69cab-405a-446a-9e46-22b4e3db672b)
 
 <!--  -->
 ## C++软件工程师(27届校招)_BCSC
@@ -487,6 +493,7 @@ https://app.mokahr.com/campus-recruitment/bosch/150946#/job/02a69cab-405a-446a-9
 <!-- 申请职位
 职位描述 -->
 <!-- Job Description: -->
+
 **职位内容:**
 
 1. 坚持多域融合的车设信号智能化通路控制
@@ -504,7 +511,7 @@ https://app.mokahr.com/campus-recruitment/bosch/150946#/job/02a69cab-405a-446a-9
 4. 良好的沟通表达能力，具有灵活性，善于解决问题
 5. 对汽车行业感兴趣，有梦想有追求
 
-https://app.mokahr.com/campus-recruitment/bosch/150946#/job/677cce61-65f9-4402-a146-65916c45a280 
+[官网投递↗](https://app.mokahr.com/campus-recruitment/bosch/150946#/job/677cce61-65f9-4402-a146-65916c45a280)
 
 <!--  -->
 ## BSP嵌入式软件工程(27届校招)_BCSC
@@ -531,7 +538,7 @@ https://app.mokahr.com/campus-recruitment/bosch/150946#/job/677cce61-65f9-4402-a
 4. 流利的英语说写，通过CET6
 5. 硕士学历，专业为计算机，软件工程，或其他相关专业
 
-https://app.mokahr.com/campus-recruitment/bosch/150946#/job/eeb71240-028d-4475-a8ce-44eff466ec07
+[官网投递↗](https://app.mokahr.com/campus-recruitment/bosch/150946#/job/eeb71240-028d-4475-a8ce-44eff466ec07)
 
 <!--  -->
 ## 网络安全软件工程师(27届校招)_BCSC
@@ -557,7 +564,7 @@ https://app.mokahr.com/campus-recruitment/bosch/150946#/job/eeb71240-028d-4475-a
 5. 对信息安全有一定的概念，了解基本密码学
 6. 了解SOC侧防火墙，SeLinux，TEE，Android系统，或者MCU侧HSM, Secue Boot, SecOC, Crypto等模块更佳
 
-https://app.mokahr.com/campus-recruitment/bosch/150946#/job/714d1b28-ec3b-4884-bcd7-192e5f2a019c
+[官网投递↗](https://app.mokahr.com/campus-recruitment/bosch/150946#/job/714d1b28-ec3b-4884-bcd7-192e5f2a019c)
 
 <!--  -->
 ## Autosar基础软件开发(27届校招)_BCSC
@@ -584,7 +591,7 @@ https://app.mokahr.com/campus-recruitment/bosch/150946#/job/714d1b28-ec3b-4884-b
 3. 良好的沟通表达能力，具有灵活性，善于解决问题
 4. 高度的责任心，工作积极主动，善于合理分配时间
 
-https://app.mokahr.com/campus-recruitment/bosch/150946#/job/18070151-0c2a-46ce-8c51-6b0f55e8fbaa
+[官网投递↗](https://app.mokahr.com/campus-recruitment/bosch/150946#/job/18070151-0c2a-46ce-8c51-6b0f55e8fbaa)
 
 <!--  -->
 <span style="font-size:12px; color:#999">THE END</span>
