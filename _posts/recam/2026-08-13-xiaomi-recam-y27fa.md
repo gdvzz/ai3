@@ -47,7 +47,7 @@ excerpt: "小米（世界500强）27届秋招岗位"
 <br>
 
 <!--  -->
-- ⚛️ 招聘官网：[博世招聘官网↗](https://hr.xiaomi.com/website/campus.html)
+- ⚛️ 招聘官网：[小米招聘官网↗](https://hr.xiaomi.com/website/campus.html)
 - ❇️ 招聘官微：[小米2027届全球校园招聘正式启动↗](https://mp.weixin.qq.com/s/tIKrlH4jQ_CkM-4OfuBj_w) `(小米招聘 2026年8月10日 11:25 北京)`
 - 🛑 截止日期：12月31日（8月10日开始）
 
