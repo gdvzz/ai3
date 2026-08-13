@@ -43,8 +43,8 @@ excerpt: "平安银行（世界500强子公司）27届秋招岗位"
 <!--  -->
 ## 招聘信息
 
-<!-- <img src="/assets/images/brc/y27/xiaomi.png" alt="brc-y27-xiaomi" style=" width: auto; height: auto; max-width: 100%;">
-<br> -->
+<img src="/assets/images/brc/y27/pab.png" alt="brc-y27-pab" style=" width: auto; height: auto; max-width: 100%;">
+<br>
 
 <!--  -->
 - ⚛️ 招聘官网：[平安银行校招官网↗](https://campus.pingan.com/pab)
