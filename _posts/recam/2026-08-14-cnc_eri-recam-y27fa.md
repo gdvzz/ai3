@@ -49,7 +49,7 @@ excerpt: "中兵通信装备研究院（总公司是央企）27届秋招"
 <!--  -->
 <!-- - ⚛️ 招聘官网：[蚂蚁集团2026年秋季招聘↗](https://talent.antgroup.com/campus-full-list?type=campus_graduates) -->
 <!-- - ❇️ 招聘官微：[蚂蚁集团 2027 校园招聘正式启动！↗](https://mp.weixin.qq.com/s/smtWkBVdBYsV99m_4BisQQ) `(等你来的 蚂蚁集团招聘 2026年8月10日 12:00 浙江)` -->
-- ✳️ 招聘推文：[中兵通信：嵌入式开发工程师、无线通信算法工程师、网络协议开发工程师等岗位招聘](https://mp.weixin.qq.com/s/v2n1dph1490_sVVK1tuhOA) `(江南大学智慧就业 2026年7月28日 16:16 江苏)`
+- ✳️ 招聘推文：[中兵通信：嵌入式开发工程师、无线通信算法工程师、网络协议开发工程师等岗位招聘↗](https://mp.weixin.qq.com/s/v2n1dph1490_sVVK1tuhOA) `(江南大学智慧就业 2026年7月28日 16:16 江苏)`
 - 🛑 截止日期：不详
 
 <!--  -->
