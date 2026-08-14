@@ -10,7 +10,7 @@ categories:
 layout: splash
 # classes: wide   # 就这一行，让页面变宽
 
-excerpt: "多益网络27届秋招岗位"
+excerpt: "多益网络27届秋招岗位（超20个）"
 # header:
 #   overlay_image: /assets/images/brc/y27/hundsun.png
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -873,7 +873,7 @@ excerpt: "多益网络27届秋招岗位"
 3. 目标月薪与目标年薪预估包含法定每月不超过36小时的加班费、奖金等，具体金额视实际情况而定；新员工目标收入根据实际工作时间进行折算。
 
 <!--  -->
-用户研究分析师
+## 用户研究分析师
 `17~22.5W/年
 策划类
 广州，杭州
