@@ -1,6 +1,6 @@
 ---
 title: "点点互动_27届秋招"
-last_modified_at: 2026-08-16T11:00:00+08:00
+last_modified_at: 2026-08-16T15:00:00+08:00
 categories:
   - recam
 # tags:
@@ -10,7 +10,7 @@ categories:
 layout: splash
 # classes: wide   # 就这一行，让页面变宽
 
-excerpt: "点点互动27届秋招岗位"
+excerpt: "点点互动27届秋招岗位(~20个)"
 # header:
 #   overlay_image: /assets/images/brc/y27/hundsun.png
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
