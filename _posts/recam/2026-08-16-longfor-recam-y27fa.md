@@ -10,7 +10,7 @@ categories:
 layout: splash
 # classes: wide   # 就这一行，让页面变宽
 
-excerpt: "龙湖集团27届秋招岗位"
+excerpt: "龙湖集团27届秋招岗位(~40个)"
 # header:
 #   overlay_image: /assets/images/brc/y27/hundsun.png
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -1336,7 +1336,16 @@ excerpt: "龙湖集团27届秋招岗位"
 ## 商服客服
 `龙湖智创生活` \| `海口，深圳，广州，佛山，东莞，苏州，上海，杭州，济南，武汉，合肥，南京，重庆，昆明，成都，北京, 郑州`
 
-【职位描述】  1、负责甲方关系建立及维护，识别甲方需求并提供优质的产品服务  2、负责分管项目的各类费用的收缴、统计  3、受理客户报事、报修、投诉等需求，并提出解决方案  4、日常品质综合巡查  【职位要求】  1、专业不限  2、积极主动，善于沟通协调，有较强的应变能力  3、具有系统性思考能力，有同理心
+**【职位描述】**
+1. 负责甲方关系建立及维护，识别甲方需求并提供优质的产品服务  
+2. 负责分管项目的各类费用的收缴、统计  
+3. 受理客户报事、报修、投诉等需求，并提出解决方案  
+4. 日常品质综合巡查  
+
+**【职位要求】**
+1. 专业不限  
+2. 积极主动，善于沟通协调，有较强的应变能力  
+3. 具有系统性思考能力，有同理心
 
 网申投递 [↗](https://xiaoyuan.zhaopin.com/job/CC375739230J40866741511) [↗](https://xiaoyuan.zhaopin.com/job/CC375739230J40866742111) [↗](https://xiaoyuan.zhaopin.com/job/CC375739230J40866740511) [↗](https://xiaoyuan.zhaopin.com/job/CC375739230J40866739611) [↗](https://xiaoyuan.zhaopin.com/job/CC375739230J40866738611) [↗](https://xiaoyuan.zhaopin.com/job/CC375739230J40866737711) [↗](https://xiaoyuan.zhaopin.com/job/CC375739230J40866736111) [↗](https://xiaoyuan.zhaopin.com/job/CC375739230J40866733011) [↗](https://xiaoyuan.zhaopin.com/job/CC375739230J40866732211) [↗](https://xiaoyuan.zhaopin.com/job/CC375739230J40866730911) [↗](https://xiaoyuan.zhaopin.com/job/CC375739230J40866726811) [↗](https://xiaoyuan.zhaopin.com/job/CC375739230J40866726111) [↗](https://xiaoyuan.zhaopin.com/job/CC375739230J40866724311) [↗](https://xiaoyuan.zhaopin.com/job/CC375739230J40866723611) [↗](https://xiaoyuan.zhaopin.com/job/CC375739230J40866722811) [↗](https://xiaoyuan.zhaopin.com/job/CC375739230J40866728911) [↗](https://xiaoyuan.zhaopin.com/job/CC375739230J40868595611)
 
