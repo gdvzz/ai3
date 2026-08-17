@@ -111,7 +111,7 @@ excerpt: "韶音27届秋招提前批岗位(~14个)"
 - 27届提前批-专利工程师 `(nc)`
 - 27届提前批-CMF设计师 `(nc)`
 
-<!-- <span style="font-size:12px; color:#999">eos_岗位列表</span> -->
+<span style="font-size:12px; color:#999">eos_岗位列表</span>
 
 <!--  -->
 ## 27届提前批-商业管培生
