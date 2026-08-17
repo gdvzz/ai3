@@ -10,7 +10,7 @@ categories:
 layout: splash
 # classes: wide   # 就这一行，让页面变宽
 
-excerpt: "长飞光纤27届秋招岗位"
+excerpt: "长飞光纤27届秋招岗位(~5个)"
 # header:
 #   overlay_image: /assets/images/brc/y27/hundsun.png
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -565,7 +565,7 @@ excerpt: "长飞光纤27届秋招岗位"
 2. 品行端正，身体健康，吃苦耐劳，具备较好的沟通协调能力和团队合作精神
 3. 能适应一定强度差旅，抗压能力较强
 
-https://yofc2.zhiye.com/campus/detail?jobAdId=fd821e01-f34a-4ea1-959e-137061956a9a
+[官网投递↗](https://yofc2.zhiye.com/campus/detail?jobAdId=fd821e01-f34a-4ea1-959e-137061956a9a)
 
 ---
 
@@ -820,7 +820,7 @@ https://yofc2.zhiye.com/campus/detail?jobAdId=fd821e01-f34a-4ea1-959e-137061956a
 - 学习能力强，具备大模型Agent开发、RAG知识库调优等相关技术
 - 具备良好的逻辑思维、沟通能力和执行力，做事认真细致，能高效参与团队完成各项辅助工作，有较强的学习能力和问题解决意识。
 
-https://yofc2.zhiye.com/campus/detail?jobAdId=49a2d80a-b431-41cd-9375-eebe2f83dd88
+[官网投递↗](https://yofc2.zhiye.com/campus/detail?jobAdId=49a2d80a-b431-41cd-9375-eebe2f83dd88)
 
 ---
 
@@ -852,7 +852,7 @@ https://yofc2.zhiye.com/campus/detail?jobAdId=49a2d80a-b431-41cd-9375-eebe2f83dd
 - 学习能力强，具备大模型Agent开发、RAG知识库调优等相关技术
 - 具备良好的逻辑思维、沟通能力和执行力，做事认真细致，能高效参与团队完成各项辅助工作，有较强的学习能力和问题解决意识。
 
-https://yofc2.zhiye.com/campus/detail?jobAdId=a1ea756b-5ab4-4f0a-80a2-0c2334856533
+[官网投递↗](https://yofc2.zhiye.com/campus/detail?jobAdId=a1ea756b-5ab4-4f0a-80a2-0c2334856533)
 
 ---
 
@@ -904,7 +904,7 @@ https://yofc2.zhiye.com/campus/detail?jobAdId=a1ea756b-5ab4-4f0a-80a2-0c23348565
 2. 专业基础扎实，具备良好的自主学习能力。
 3. 具备良好的钻研精神、执行力与团队协作能力，工作认真负责、踏实细致
 
-https://yofc2.zhiye.com/campus/detail?jobAdId=b9ae3c0f-bd49-4f07-bfaa-af8ea3fc8cb1
+[官网投递↗](https://yofc2.zhiye.com/campus/detail?jobAdId=b9ae3c0f-bd49-4f07-bfaa-af8ea3fc8cb1)
 
 <!--  -->
 <!-- ## 硬件研发工程师
@@ -945,7 +945,7 @@ https://yofc2.zhiye.com/campus/detail?jobAdId=b9ae3c0f-bd49-4f07-bfaa-af8ea3fc8c
 2. 学习态度端正，愿意深耕工业自动化、设备软件开发领域，能适应研发岗位工作节奏。
 3. 有光纤传感、光纤光缆生产自动化设备、数据采集相关项目、实习经历者优先。
 
-https://yofc2.zhiye.com/campus/detail?jobAdId=fe569d0d-a763-4105-a222-8c828722f9a2
+[官网投递↗](https://yofc2.zhiye.com/campus/detail?jobAdId=fe569d0d-a763-4105-a222-8c828722f9a2)
 
 <!--  -->
 <!-- ## 技术情报工程师
