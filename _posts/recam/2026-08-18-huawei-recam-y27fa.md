@@ -1,6 +1,6 @@
 ---
 title: "华为_27届秋招(tbr)"
-last_modified_at: 2026-08-18T8:00:00+08:00
+last_modified_at: 2026-08-18T12:00:00+08:00
 categories:
   - recam
 # tags:
@@ -49,7 +49,7 @@ excerpt: "华为27届秋招岗位"
 <!--  -->
 - ⚛️ 招聘官网：[华为招聘官网↗](https://career.huawei.com)
 - ❇️ 招聘官微：[华为2027届应届生招聘启动↗](https://mp.weixin.qq.com/s/ypgSht75whHD-tW7qXp5IQ) `(华为招聘 2026年8月15日 09:00 广东)`
-- 🛑 截止日期：推测11月31日（8月15日起）
+- 🛑 截止日期：推测11月30日（8月15日起）
 
 <!--  -->
 ## 雇主简介
