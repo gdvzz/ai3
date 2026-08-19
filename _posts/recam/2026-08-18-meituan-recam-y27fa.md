@@ -6252,88 +6252,94 @@ AI产品经理提前批是美团面向AI方向高潜校招生的专项人才项�
 
 ### 抓取岗位信息
 
+<details markdown="block">
+  <summary>相关信息</summary>
+
 1. **获得抓取程序**
 
-```md
+    ```md
 
-1. 尝试用  PlayWright 抓取岗位详细信息。
+    1. 尝试用  PlayWright 抓取岗位详细信息。
 
-2. 岗位卡片的列表
+    2. 岗位卡片的列表
 
-- 网址：https://zhaopin.meituan.com/web/campus?hiringType=4_1
-- 分页显示，每页 10 个卡片
-- 共约 200 个岗位
+    - 网址：https://zhaopin.meituan.com/web/campus?hiringType=4_1
+    - 分页显示，每页 10 个卡片
+    - 共约 200 个岗位
 
-3. 多输出一些调试信息，比如：
+    3. 多输出一些调试信息，比如：
 
-- 岗位名称是什么，
-- 职位描述有多少字，职位信息有多少字，
-- 耗时多少，
-- 累计抓取多少个岗位，成功多少个，有错误多少个
-- 等等。
+    - 岗位名称是什么，
+    - 职位描述有多少字，职位信息有多少字，
+    - 耗时多少，
+    - 累计抓取多少个岗位，成功多少个，有错误多少个
+    - 等等。
 
-4. 保存到 json文件中。
+    4. 保存到 json文件中。
 
-- 每抓取到一个岗位，就保存到文件中。再抓取到一个岗位，就追加到文件中。
-- json文件中的字段，用英文命名
-- 将岗位详情页的网址，也保存保存下来。样例：https://zhaopin.meituan.com/web/position/detail?jobUnionId=4694877891
+    - 每抓取到一个岗位，就保存到文件中。再抓取到一个岗位，就追加到文件中。
+    - json文件中的字段，用英文命名
+    - 将岗位详情页的网址，也保存保存下来。样例：https://zhaopin.meituan.com/web/position/detail?jobUnionId=4694877891
 
-5. 有个API可调用，获得岗位详情
+    5. 有个API可调用，获得岗位详情
 
-- API的 URL：https://zhaopin.meituan.com/api/official/job/getJobList
+    - API的 URL：https://zhaopin.meituan.com/api/official/job/getJobList
 
-- API 的 request payload 如下：
-- API 的response 如下：
-- 翻页后，调用该API，可获得该分页的10个岗位的详情信息
+    - API 的 request payload 如下：
+    - API 的response 如下：
+    - 翻页后，调用该API，可获得该分页的10个岗位的详情信息
 
-```
+    ```
 
-**实现逻辑：** 直接调用 API 即可，可以传入参数指定第几页。没有使用 PlayWright。
+    **实现逻辑：** 直接调用 API 即可，可以传入参数指定第几页。没有使用 PlayWright。
 
-- 抓取程序：[meituan.py↗](../blog/getjd.assets/meituan.py)
-- 抓取结果：[meituan_jobs_api.json↗](../blog/getjd.assets/meituan_jobs_api.json)
+    - 抓取程序：[meituan.py↗](../blog/getjd.assets/meituan.py)
+    - 抓取结果：[meituan_jobs_api.json↗](../blog/getjd.assets/meituan_jobs_api.json)
 
 2. **json转md**
 
-输出程序，将json转成md文档
+    输出程序，将json转成md文档
 
-```md
+    ```md
 
-0. 处理json文件，即可。不要抓取
+    0. 处理json文件，即可。不要抓取
 
-1. 岗位名称用2级标题，取值是 job_name
+    1. 岗位名称用2级标题，取值是 job_name
 
-2. 接下来是  `job_family > job_family_group` \|  `cities` \| `refresh_time`
+    2. 接下来是  `job_family > job_family_group` \|  `cities` \| `refresh_time`
 
-- 都要加上 ``，当作code。
-- | 要写成 \|
-- cities 多个值之间，用 / 分割，cities 名字按拼音排序
-- refresh_time，显示年月日即可。
+    - 都要加上 ``，当作code。
+    - | 要写成 \|
+    - cities 多个值之间，用 / 分割，cities 名字按拼音排序
+    - refresh_time，显示年月日即可。
 
-3. 接下来，加粗显示“岗位职责”，换行后显示 job_duty
+    3. 接下来，加粗显示“岗位职责”，换行后显示 job_duty
 
-- job_duty 中如有 1 2 3 等序号，则转成有序列表
+    - job_duty 中如有 1 2 3 等序号，则转成有序列表
 
-4. 接下来，加粗显示“任职要求”，换行后显示 job_requirement
+    4. 接下来，加粗显示“任职要求”，换行后显示 job_requirement
 
-- job_requirement 中如有 1 2 3 等序号，则转成有序列表
+    - job_requirement 中如有 1 2 3 等序号，则转成有序列表
 
 
-5. 最后显示“官网投递↗”，链接是 job_url
+    5. 最后显示“官网投递↗”，链接是 job_url
 
-6. 给个处理结果的样例，看看是否符合要求。
+    6. 给个处理结果的样例，看看是否符合要求。
 
-```
+    ```
 
-- 转换：[mtj2md.py↗](../blog/getjd.assets/mtj2md.py)
+    - 转换：[mtj2md.py↗](../blog/getjd.assets/mtj2md.py)
 
 3. **输出分类列表**
 
-```md
-按 job_family 输出岗位名称列表
-```
+    ```md
+    按 job_family 输出岗位名称列表
+    ```
+
+</details>
 
 <!--  -->
 <span style="font-size:12px; color:#999">THE END</span>
 
 <!--  -->
+
