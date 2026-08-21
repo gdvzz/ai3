@@ -43,8 +43,8 @@ excerpt: "华勤技术27届秋招岗位(~20个)"
 <!--  -->
 ## 招聘信息
 
-<!-- <img src="/assets/images/brc/y27/meituan.png" alt="brc-y27-meituan" style=" width: auto; height: auto; max-width: 100%;">
-<br> -->
+<img src="/assets/images/brc/y27/huaqin.png" alt="brc-y27-huaqin" style=" width: auto; height: auto; max-width: 100%;">
+<br>
 
 <!--  -->
 - ⚛️ 招聘官网：[华勤技术招聘官网↗](https://jobs.huaqin.com/)
@@ -145,7 +145,7 @@ excerpt: "华勤技术27届秋招岗位(~20个)"
 
 ### 软件类（4/4）
 
-- [驱动开发工程师-BIOS/BSP/BMC（2027届）](#驱动开发工程师-bios/bsp/bmc2027届)
+- [驱动开发工程师-BIOS/BSP/BMC（2027届）](#驱动开发工程师-biosbspbmc2027届)
 - [驱动开发工程师（2027届）](#驱动开发工程师2027届)
 - [应用软件开发工程师（2027届）](#应用软件开发工程师2027届)
 - [影像开发工程师（2027届）](#影像开发工程师2027届)
