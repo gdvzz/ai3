@@ -1,6 +1,6 @@
 ---
 title: "联影集团_27届秋招"
-last_modified_at: 2026-08-22T21:00:00+08:00
+last_modified_at: 2026-08-23T06:00:00+08:00
 categories:
   - recam
 # tags:
@@ -23,7 +23,7 @@ excerpt: "联影集团（上市医疗公司）27届秋招岗位(~60个)"
 
 # 联影集团_27届秋招
 {: .no_toc }
-`更新-260822` \| `发布-260822`
+`更新-260823` \| `发布-260822`
 
 <!--  -->
 <details markdown="block">
@@ -70,307 +70,196 @@ excerpt: "联影集团（上市医疗公司）27届秋招岗位(~60个)"
 
 ✳️ `(nc)` not collected 未收录。感兴趣同学可访问招聘官网。
 
-- 电子硬件工程师 - 上海(J19690)
-- 电子硬件工程师 - 武汉(J19802)
-- 营销管理培训生 - 全国(J19753)
-- AI算法工程师 - 上海(J19777)
-- AI算法工程师 - 武汉(J19671)
-- FPGA工程师 - 上海(J19794)
-- FPGA工程师 - 武汉(J19795)
-- 系统测试工程师 - 上海(J20832)
-- 科研合作专家 - 北京(J19779)
-- 科研合作专家 - 重庆(J19701)
-- 科研合作专家 - 上海(J19780)
-- 科研合作专家 - 深圳(J19699)
-- 科研合作专家 - 武汉(J19700)
-- 人力资源管理培训生 - 上海(J19713)
-- 人力资源管理培训生 - 武汉(J19714)
-- 软件测试工程师 - 上海(J19798)
-- 软件测试工程师 - 武汉(J19803)
-- 软件开发工程师 - 上海(J19716)
-- 软件开发工程师 - 武汉(J19810)
-- 软件开发工程师（机器人方向） - 上海(J19717)
-- 软件开发工程师（机器人方向） - 武汉(J19786)
-- 软件开发工程师（前端） - 上海(J19718)
-- 软件开发工程师（前端） - 武汉(J19719)
-- 软件开发工程师（嵌入式方向） - 上海(J19720)
-- 软件开发工程师（嵌入式方向） - 武汉(J19799)
-- 软件算法工程师（大模型方向） - 北京(J19787)
-- 软件算法工程师（大模型方向） - 上海(J19788)
-- 软件算法工程师（大模型方向） - 深圳(J19721)
-- 软件算法工程师（大模型方向） - 武汉(J19722)
-- 软件算法工程师（大数据/区块链/隐私计算) - 上海(J19723)
-- 软件算法工程师（图形图像方向） - 北京(J19724)
-- 软件算法工程师（图形图像方向） - 上海(J19789)
-- 软件算法工程师（图形图像方向） - 深圳(J19725)
-- 软件算法工程师（图形图像方向） - 武汉(J19726)
-- 软件算法工程师（信号处理方向) - 上海(J19727)
-- 软件算法工程师（信号处理方向) - 武汉(J19728)
-- 软件算法工程师（运动控制方向） - 上海(J19729)
-- 软件算法工程师（智能语音方向） - 上海(J19730)
-- 软件算法工程师（智能语音方向） - 武汉(J19790)
-- 生产管理培训生 - 上海(J19732)
-- 生产管理培训生 - 武汉(J19733)
-- 数据中心管理工程师 - 上海(J19738)
-- 数字电路设计工程师 - 上海(J19739)
-- 数字电路验证工程师 - 上海(J19740)
-- 物理算法工程师 - 北京(J19742)
-- 物理算法工程师 - 上海(J19793)
-- 物理算法工程师 - 深圳(J19743)
-- 物理算法工程师 - 武汉(J19805)
-- 物理算法工程师（机器人方向） - 深圳(J19744)
-- 物理算法工程师（机器人方向） - 武汉(J19745)
-- 系统测试工程师 - 武汉(J19807)
-- 芯片应用工程师 - 上海(J19748)
-- 信息系统顾问 - 上海(J19749)
-- 序列重建开发工程师 - 北京(J19750)
-- 序列重建开发工程师 - 上海(J19751)
-- 序列重建开发工程师 - 武汉(J19808)
-- AI应用工程师 - 上海(J19672)
 
-电子硬件工程师 - 上海(J19690)
-电子硬件工程师 - 武汉(J19802)
-营销管理培训生 - 全国(J19753)
-AI算法工程师 - 上海(J19777)
-AI算法工程师 - 武汉(J19671)
-FPGA工程师 - 上海(J19794)
-FPGA工程师 - 武汉(J19795)
-系统测试工程师 - 上海(J20832)
-科研合作专家 - 北京(J19779)
-科研合作专家 - 重庆(J19701)
-科研合作专家 - 上海(J19780)
-科研合作专家 - 深圳(J19699)
-科研合作专家 - 武汉(J19700)
-人力资源管理培训生 - 上海(J19713)
-人力资源管理培训生 - 武汉(J19714)
-软件测试工程师 - 上海(J19798)
-软件测试工程师 - 武汉(J19803)
-软件开发工程师 - 上海(J19716)
-软件开发工程师 - 武汉(J19810)
-软件开发工程师（机器人方向） - 上海(J19717)
-软件开发工程师（机器人方向） - 武汉(J19786)
-软件开发工程师（前端） - 上海(J19718)
-软件开发工程师（前端） - 武汉(J19719)
-软件开发工程师（嵌入式方向） - 上海(J19720)
-软件开发工程师（嵌入式方向） - 武汉(J19799)
-软件算法工程师（大模型方向） - 北京(J19787)
-软件算法工程师（大模型方向） - 上海(J19788)
-软件算法工程师（大模型方向） - 深圳(J19721)
-软件算法工程师（大模型方向） - 武汉(J19722)
-软件算法工程师（大数据/区块链/隐私计算) - 上海(J19723)
-软件算法工程师（图形图像方向） - 北京(J19724)
-软件算法工程师（图形图像方向） - 上海(J19789)
-软件算法工程师（图形图像方向） - 深圳(J19725)
-软件算法工程师（图形图像方向） - 武汉(J19726)
-软件算法工程师（信号处理方向) - 上海(J19727)
-软件算法工程师（信号处理方向) - 武汉(J19728)
-软件算法工程师（运动控制方向） - 上海(J19729)
-软件算法工程师（智能语音方向） - 上海(J19730)
-软件算法工程师（智能语音方向） - 武汉(J19790)
-生产管理培训生 - 上海(J19732)
-生产管理培训生 - 武汉(J19733)
-数据中心管理工程师 - 上海(J19738)
-数字电路设计工程师 - 上海(J19739)
-数字电路验证工程师 - 上海(J19740)
-物理算法工程师 - 北京(J19742)
-物理算法工程师 - 上海(J19793)
-物理算法工程师 - 深圳(J19743)
-物理算法工程师 - 武汉(J19805)
-物理算法工程师（机器人方向） - 深圳(J19744)
-物理算法工程师（机器人方向） - 武汉(J19745)
-系统测试工程师 - 武汉(J19807)
-芯片应用工程师 - 上海(J19748)
-信息系统顾问 - 上海(J19749)
-序列重建开发工程师 - 北京(J19750)
-序列重建开发工程师 - 上海(J19751)
-序列重建开发工程师 - 武汉(J19808)
-AI应用工程师 - 上海(J19672)
+### 测试（3/5）
 
-### 软件（8）
-
-软件开发工程师 - 上海(J19716)
-软件开发工程师 - 武汉(J19810)
-软件开发工程师（机器人方向） - 上海(J19717)
-软件开发工程师（机器人方向） - 武汉(J19786)
-软件开发工程师（前端） - 上海(J19718)
-软件开发工程师（前端） - 武汉(J19719)
-软件开发工程师（嵌入式方向） - 上海(J19720)
-软件开发工程师（嵌入式方向） - 武汉(J19799)
-
-### 算法（26）
-
-软件算法工程师（大模型方向） - 北京(J19787)
-软件算法工程师（大模型方向） - 上海(J19788)
-软件算法工程师（大模型方向） - 深圳(J19721)
-软件算法工程师（大模型方向） - 武汉(J19722)
-软件算法工程师（大数据/区块链/隐私计算) - 上海(J19723)
-软件算法工程师（图形图像方向） - 北京(J19724)
-软件算法工程师（图形图像方向） - 上海(J19789)
-软件算法工程师（图形图像方向） - 深圳(J19725)
-软件算法工程师（图形图像方向） - 武汉(J19726)
-软件算法工程师（信号处理方向) - 上海(J19727)
-软件算法工程师（信号处理方向) - 武汉(J19728)
-软件算法工程师（运动控制方向） - 上海(J19729)
-软件算法工程师（智能语音方向） - 上海(J19730)
-软件算法工程师（智能语音方向） - 武汉(J19790)
-物理算法工程师 - 北京(J19742)
-物理算法工程师 - 上海(J19793)
-物理算法工程师 - 深圳(J19743)
-物理算法工程师 - 武汉(J19805)
-物理算法工程师（机器人方向） - 深圳(J19744)
-物理算法工程师（机器人方向） - 武汉(J19745)
-序列重建开发工程师 - 北京(J19750)
-序列重建开发工程师 - 上海(J19751)
-序列重建开发工程师 - 武汉(J19808)
-AI算法工程师 - 上海(J19777)
-AI算法工程师 - 武汉(J19671)
-AI应用工程师 - 上海(J19672)
-
-### 系统工程（6）
-
-风险管理工程师 - 上海(J19692)
-风险管理工程师 - 武汉(J19778)
-可靠性工程师 - 上海(J19702)
-可靠性工程师 - 武汉(J19703)
-系统测试工程师 - 上海(J20832)
-系统工程师（质谱方向） - 武汉(J19746)
-
-### 硬件（31）
-
-传感器研发工程师（超声探头方向） - 武汉(J19678)
-传感器研发工程师（光电/力学方向） - 武汉(J19679)
-传感器研发工程师（化学/电化学方向） - 上海(J19680)
-磁体工程师 - 上海(J19681)
-磁体工程师 - 武汉(J19682)
-低温工程师 - 武汉(J19801)
-电气工程师 - 常州(J19686)
-电气工程师 - 上海(J19687)
-电气工程师 - 武汉(J19688)
-电真空工程师 - 武汉(J19689)
-电子硬件工程师 - 上海(J19690)
-电子硬件工程师 - 武汉(J19802)
-机械工程师 - 常州(J19696)
-机械工程师 - 上海(J19797)
-机械工程师 - 武汉(J19809)
-气动控制工程师 - 武汉(J19784)
-声学工程师 - 武汉(J19734)
-试剂研发工程师 - 上海(J19736)
-探测器工程师 - 上海(J19792)
-自动化开发工程师 - 上海(J19757)
-自动化开发工程师 - 武汉(J19758)
-FPGA工程师 - 上海(J19794)
-FPGA工程师 - 武汉(J19795)
+- [软件测试工程师 - 上海(J19798)](#软件测试工程师---上海j19798)
+- [软件测试工程师 - 武汉(J19803)](#软件测试工程师---武汉j19803)
+- [系统测试工程师 - 武汉(J19807)](#系统测试工程师---武汉j19807)
 
 <!--  -->
-高压绝缘工程师 - 上海(J20860)
-高压绝缘工程师 - 武汉(J19694)
-电力电子工程师（大功率电源方向） - 上海(J19796)
-电力电子工程师（大功率电源方向） - 武汉(J19683)
-电力电子工程师（低功率电源方向） - 上海(J19684)
-电力电子工程师（低功率电源方向） - 武汉(J19685)
-射频工程师 - 上海(J19800)
-射频工程师 - 武汉(J19804)
+- 硬件测试工程师 - 常州(J19754) `(nc)`
+- 硬件测试工程师 - 上海(J19755) `(nc)`
 
-### 产品管理（1）
+### 产品管理（0/1）
 
-产品专员/经理 - 武汉(J19676)
+- 产品专员/经理 - 武汉(J19676) `(nc)`
 
-### 测试（5）
+### 创意设计（0/4）
 
-软件测试工程师 - 上海(J19798)
-软件测试工程师 - 武汉(J19803)
-系统测试工程师 - 武汉(J19807)
-硬件测试工程师 - 常州(J19754)
-硬件测试工程师 - 上海(J19755)
+- 人因工程工程师 - 上海(J19715) `(nc)`
+- 人因工程工程师 - 武汉(J19785) `(nc)`
+- 视觉体验设计师 - 上海(J19737) `(nc)`
+- AI前瞻设计工程师 - 上海(J19670) `(nc)`
 
-### 科研合作（5）
+### 供应链管理（0/4）
 
-科研合作专家 - 北京(J19779)
-科研合作专家 - 重庆(J19701)
-科研合作专家 - 上海(J19780)
-科研合作专家 - 深圳(J19699)
-科研合作专家 - 武汉(J19700)
+- 采购工程师 - 上海(J19675) `(nc)`
+- 高级技术员/调试技术员 - 上海(J19693) `(nc)`
+- 生产工艺工程师 - 上海(J19791) `(nc)`
+- 生产工艺工程师 - 武汉(J19731) `(nc)`
 
-### 芯片研发（5）
+### 管理培训生（5/6）
 
-模拟版图工程师 - 上海(J19709)
-模拟芯片设计工程师 - 上海(J19710)
-数字电路设计工程师 - 上海(J19739)
-数字电路验证工程师 - 上海(J19740)
-芯片应用工程师 - 上海(J19748)
+- [人力资源管理培训生 - 上海(J19713)](#人力资源管理培训生---上海j19713)
+- [人力资源管理培训生 - 武汉(J19714)](#人力资源管理培训生---武汉j19714)
+- [生产管理培训生 - 上海(J19732)](#生产管理培训生---上海j19732)
+- [生产管理培训生 - 武汉(J19733)](#生产管理培训生---武汉j19733)
+- [营销管理培训生 - 全国(J19753)](#营销管理培训生---全国j19753)
+
+<!--  -->
+- 全球服务管理培训生 - 上海(J19712) `(nc)`
 
 ### 化学材料研发（0/1）
 
 材料工程师（高分子方向） - 上海(J19673) `(nc)`
 
-### 市场品牌（2）
+### 客户服务（0/4）
 
-品牌活动营销专员 - 上海(J19711)
-市场准入专员 - 上海(J19735)
+- 技术支持工程师 - 上海(J19697) `(nc)`
+- 技术支持工程师 - 武汉(J19698) `(nc)`
+- 客户服务工程师 - 全国(J19781) `(nc)`
+- 项目规划工程师 - 上海(J19747) `(nc)`
 
-### 管理培训生（6）
+### 科研合作（5/5）
 
-人力资源管理培训生 - 上海(J19713)
-人力资源管理培训生 - 武汉(J19714)
-生产管理培训生 - 上海(J19732)
-生产管理培训生 - 武汉(J19733)
-营销管理培训生 - 全国(J19753)
+- [科研合作专家 - 北京(J19779)](#科研合作专家---北京j19779)
+- [科研合作专家 - 重庆(J19701)](#科研合作专家---重庆j19701)
+- [科研合作专家 - 上海(J19780)](#科研合作专家---上海j19780)
+- [科研合作专家 - 深圳(J19699)](#科研合作专家---深圳j19699)
+- [科研合作专家 - 武汉(J19700)](#科研合作专家---武汉j19700)
+
+### 临床应用（0/8）
+
+- 放疗物理师 - 北京(J19691) `(nc)`
+- 临床应用培训专员 - 北京(J19704) `(nc)`
+- 临床应用培训专员 - 广州(J19782) `(nc)`
+- 临床应用培训专员 - 全国(J19705) `(nc)`
+- 临床应用培训专员 - 上海(J19706) `(nc)`
+- 临床应用专家/专员 - 北京(J19707) `(nc)`
+- 临床应用专家/专员 - 上海(J19783) `(nc)`
+- 临床应用专家/专员 - 武汉(J19708) `(nc)`
+
+### 软件（8/8）
+
+- [软件开发工程师 - 上海(J19716)](#软件开发工程师---上海j19716)
+- [软件开发工程师 - 武汉(J19810)](#软件开发工程师---武汉j19810)
+- [软件开发工程师（机器人方向） - 上海(J19717)](#软件开发工程师机器人方向---上海j19717)
+- [软件开发工程师（机器人方向） - 武汉(J19786)](#软件开发工程师机器人方向---武汉j19786)
+- [软件开发工程师（前端） - 上海(J19718)](#软件开发工程师前端---上海j19718)
+- [软件开发工程师（前端） - 武汉(J19719)](#软件开发工程师前端---武汉j19719)
+- [软件开发工程师（嵌入式方向） - 上海(J19720)](#软件开发工程师嵌入式方向---上海j19720)
+- [软件开发工程师（嵌入式方向） - 武汉(J19799)](#软件开发工程师嵌入式方向---武汉j19799)
+
+### 市场品牌（0/2）
+
+- 品牌活动营销专员 - 上海(J19711) `(nc)`
+- 市场准入专员 - 上海(J19735) `(nc)`
+
+### 算法（26/26）
+
+- [软件算法工程师（大模型方向） - 北京(J19787)](#软件算法工程师大模型方向---北京j19787)
+- [软件算法工程师（大模型方向） - 上海(J19788)](#软件算法工程师大模型方向---上海j19788)
+- [软件算法工程师（大模型方向） - 深圳(J19721)](#软件算法工程师大模型方向---深圳j19721)
+- [软件算法工程师（大模型方向） - 武汉(J19722)](#软件算法工程师大模型方向---武汉j19722)
+- [软件算法工程师（大数据/区块链/隐私计算) - 上海(J19723)](#软件算法工程师大数据区块链隐私计算---上海j19723)
+- [软件算法工程师（图形图像方向） - 北京(J19724)](#软件算法工程师图形图像方向---北京j19724)
+- [软件算法工程师（图形图像方向） - 上海(J19789)](#软件算法工程师图形图像方向---上海j19789)
+- [软件算法工程师（图形图像方向） - 深圳(J19725)](#软件算法工程师图形图像方向---深圳j19725)
+- [软件算法工程师（图形图像方向） - 武汉(J19726)](#软件算法工程师图形图像方向---武汉j19726)
+- [软件算法工程师（信号处理方向) - 上海(J19727)](#软件算法工程师信号处理方向---上海j19727)
+- [软件算法工程师（信号处理方向) - 武汉(J19728)](#软件算法工程师信号处理方向---武汉j19728)
+- [软件算法工程师（运动控制方向） - 上海(J19729)](#软件算法工程师运动控制方向---上海j19729)
+- [软件算法工程师（智能语音方向） - 上海(J19730)](#软件算法工程师智能语音方向---上海j19730)
+- [软件算法工程师（智能语音方向） - 武汉(J19790)](#软件算法工程师智能语音方向---武汉j19790)
+- [物理算法工程师 - 北京(J19742)](#物理算法工程师---北京j19742)
+- [物理算法工程师 - 上海(J19793)](#物理算法工程师---上海j19793)
+- [物理算法工程师 - 深圳(J19743)](#物理算法工程师---深圳j19743)
+- [物理算法工程师 - 武汉(J19805)](#物理算法工程师---武汉j19805)
+- [物理算法工程师（机器人方向） - 深圳(J19744)](#物理算法工程师机器人方向---深圳j19744)
+- [物理算法工程师（机器人方向） - 武汉(J19745)](#物理算法工程师机器人方向---武汉j19745)
+- [序列重建开发工程师 - 北京(J19750)](#序列重建开发工程师---北京j19750)
+- [序列重建开发工程师 - 上海(J19751)](#序列重建开发工程师---上海j19751)
+- [序列重建开发工程师 - 武汉(J19808)](#序列重建开发工程师---武汉j19808)
+- [AI算法工程师 - 上海(J19777)](#ai算法工程师---上海j19777)
+- [AI算法工程师 - 武汉(J19671)](#ai算法工程师---武汉j19671)
+- [AI应用工程师 - 上海(J19672)](#ai应用工程师---上海j19672)
+
+### 系统工程（1/6）
+
+- [系统测试工程师 - 上海(J20832)](#系统测试工程师---上海j20832)
 
 <!--  -->
-全球服务管理培训生 - 上海(J19712)
+- 风险管理工程师 - 武汉(J19778) `(nc)`
+- 可靠性工程师 - 上海(J19702) `(nc)`
+- 可靠性工程师 - 武汉(J19703) `(nc)`
+- 系统工程师（质谱方向） - 武汉(J19746) `(nc)`
+- 风险管理工程师 - 上海(J19692) `(nc)`
 
-### 创意设计（4）
+### 芯片研发（5）
 
-人因工程工程师 - 上海(J19715)
-人因工程工程师 - 武汉(J19785)
-视觉体验设计师 - 上海(J19737)
-AI前瞻设计工程师 - 上海(J19670)
-
-### 临床应用（8）
-
-放疗物理师 - 北京(J19691)
-临床应用培训专员 - 北京(J19704)
-临床应用培训专员 - 广州(J19782)
-临床应用培训专员 - 全国(J19705)
-临床应用培训专员 - 上海(J19706)
-临床应用专家/专员 - 北京(J19707)
-临床应用专家/专员 - 上海(J19783)
-临床应用专家/专员 - 武汉(J19708)
-
-### 研发支持（1）
-
-医学图像标注工程师 - 北京(J19752)
-
-### 客户服务（4）
-
-技术支持工程师 - 上海(J19697)
-技术支持工程师 - 武汉(J19698)
-客户服务工程师 - 全国(J19781)
-项目规划工程师 - 上海(J19747)
-
-### 信息技术（2）
-
-数据中心管理工程师 - 上海(J19738)
-信息系统顾问 - 上海(J19749)
-
-### 供应链管理（4）
-
-采购工程师 - 上海(J19675)
-高级技术员/调试技术员 - 上海(J19693)
-生产工艺工程师 - 上海(J19791)
-生产工艺工程师 - 武汉(J19731)
-
-### 支持职能（5）
-
-初级/助理审计师 - 上海(J19677)
-会计（初级） - 武汉(J19695)
-投融资助理 - 上海(J19741)
-运营专员 - 上海(J19756)
+- [数字电路设计工程师 - 上海(J19739)](#数字电路设计工程师---上海j19739)
+- [数字电路验证工程师 - 上海(J19740)](#数字电路验证工程师---上海j19740)
+- [芯片应用工程师 - 上海(J19748)](#芯片应用工程师---上海j19748)
 
 <!--  -->
-财务管理培训生 - 上海(J19674)
+- 模拟版图工程师 - 上海(J19709) `(nc)`
+- 模拟芯片设计工程师 - 上海(J19710) `(nc)`
 
-===
+### 信息技术（2/2）
+
+- [数据中心管理工程师 - 上海(J19738)](#数据中心管理工程师---上海j19738)
+- [信息系统顾问 - 上海(J19749)](#信息系统顾问---上海j19749)
+
+### 研发支持（0/1）
+
+- 医学图像标注工程师 - 北京(J19752) `(nc)`
+
+### 硬件（4/31）
+
+- [电子硬件工程师 - 上海(J19690)](#电子硬件工程师---上海j19690)
+- [电子硬件工程师 - 武汉(J19802)](#电子硬件工程师---武汉j19802)
+- [FPGA工程师 - 上海(J19794)](#fpga工程师---上海j19794)
+- [FPGA工程师 - 武汉(J19795)](#fpga工程师---武汉j19795)
+
+<!--  -->
+- 传感器研发工程师（超声探头方向） - 武汉(J19678) `(nc)`
+- 传感器研发工程师（光电/力学方向） - 武汉(J19679) `(nc)`
+- 传感器研发工程师（化学/电化学方向） - 上海(J19680) `(nc)`
+- 磁体工程师 - 上海(J19681) `(nc)`
+- 磁体工程师 - 武汉(J19682) `(nc)`
+- 低温工程师 - 武汉(J19801) `(nc)`
+- 电力电子工程师（大功率电源方向） - 上海(J19796) `(nc)`
+- 电力电子工程师（大功率电源方向） - 武汉(J19683) `(nc)`
+- 电力电子工程师（低功率电源方向） - 上海(J19684) `(nc)`
+- 电力电子工程师（低功率电源方向） - 武汉(J19685) `(nc)`
+- 电气工程师 - 常州(J19686) `(nc)`
+- 电气工程师 - 上海(J19687) `(nc)`
+- 电气工程师 - 武汉(J19688) `(nc)`
+- 电真空工程师 - 武汉(J19689) `(nc)`
+- 高压绝缘工程师 - 上海(J20860) `(nc)`
+- 高压绝缘工程师 - 武汉(J19694) `(nc)`
+- 机械工程师 - 常州(J19696) `(nc)`
+- 机械工程师 - 上海(J19797) `(nc)`
+- 机械工程师 - 武汉(J19809) `(nc)`
+- 气动控制工程师 - 武汉(J19784) `(nc)`
+- 射频工程师 - 上海(J19800) `(nc)`
+- 射频工程师 - 武汉(J19804) `(nc)`
+- 声学工程师 - 武汉(J19734) `(nc)`
+- 试剂研发工程师 - 上海(J19736) `(nc)`
+- 探测器工程师 - 上海(J19792) `(nc)`
+- 自动化开发工程师 - 上海(J19757) `(nc)`
+- 自动化开发工程师 - 武汉(J19758) `(nc)`
+
+### 支持职能（0/5）
+
+- 初级/助理审计师 - 上海(J19677) `(nc)`
+- 会计（初级） - 武汉(J19695) `(nc)`
+- 投融资助理 - 上海(J19741) `(nc)`
+- 运营专员 - 上海(J19756) `(nc)`
+- 财务管理培训生 - 上海(J19674) `(nc)`
+
+<span style="font-size:12px; color:#999">eos_岗位列表</span>
 
 <!--  -->
 <!-- ## 电力电子工程师（大功率电源方向） - 上海(J19796)
@@ -483,7 +372,7 @@ AI前瞻设计工程师 - 上海(J19670)
 5. 熟悉常用的调试类设备：示波器/信号源/频谱仪等，对信号完整性设计有较深理解者优先；
 6. 思路清晰、拥有良好的沟通和协作能力。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=26faf25c-cd22-4439-8681-5fd41c2842ae
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=26faf25c-cd22-4439-8681-5fd41c2842ae)
 
 <!-- 立即投递
 收藏
@@ -512,7 +401,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=26faf25c-cd22-4439-8681-5
 5. 熟悉常用的调试类设备：示波器/信号源/频谱仪等，对信号完整性设计有较深理解者优先；
 6. 思路清晰、拥有良好的沟通和协作能力。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=d964ccfa-0912-4cb4-9b29-e38dae770d55
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=d964ccfa-0912-4cb4-9b29-e38dae770d55)
 
 
 <!-- 立即投递
@@ -611,7 +500,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=d964ccfa-0912-4cb4-9b29-e
 3. 良好的沟通与语言表达能力，较强的抗压能力；
 4. 敏捷的应变处理能力，乐于接受挑战，可接受长时间出差和全国调派。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=485ad746-e324-4123-9388-181fa3f56fac
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=485ad746-e324-4123-9388-181fa3f56fac)
 
 <!-- 立即投递
 收藏
@@ -641,7 +530,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=485ad746-e324-4123-9388-1
 4. 具有人工智能相关专业（计算机视觉、机器学习、医疗图像分析等）硕士及以上学位；
 5. 能熟练使用英语。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=0158fcec-d2c9-462a-8b1c-7e92d647d30e
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=0158fcec-d2c9-462a-8b1c-7e92d647d30e)
 
 
 <!-- 立即投递
@@ -671,7 +560,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=0158fcec-d2c9-462a-8b1c-7
 4. 具有人工智能相关专业（计算机视觉、机器学习、医疗图像分析等）硕士及以上学位；
 5. 能熟练使用英语。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=03fe9f2e-3571-4673-b3c4-8b398a45d886
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=03fe9f2e-3571-4673-b3c4-8b398a45d886)
 
 <!-- 立即投递
 收藏
@@ -702,7 +591,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=03fe9f2e-3571-4673-b3c4-8
    （3）信号处理或图像处理；<br>
 5. 英文读写能力良好；有较强的学习能力、分析能力、沟通能力和团队合作精神。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=cac9aac4-bd68-4142-aa20-86b547ba8755
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=cac9aac4-bd68-4142-aa20-86b547ba8755)
 
 <!-- 立即投递
 收藏
@@ -734,7 +623,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=cac9aac4-bd68-4142-aa20-8
    （3）信号处理或图像处理；<br>
 5. 英文读写能力良好；有较强的学习能力、分析能力、沟通能力和团队合作精神。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=ff8245bf-1e10-4b00-916d-135390a971de
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=ff8245bf-1e10-4b00-916d-135390a971de)
 
 <!-- 立即投递
 收藏
@@ -792,7 +681,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=ff8245bf-1e10-4b00-916d-1
 3. 具有电子/电力/电磁场/放射物理/机械基础/光学/医学影像知识背景之一优先；
 4. 熟悉示波器、频谱仪、网络分析仪等一种或多种测试工具优先。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=52c5a1ae-3b9c-4294-ac5d-2d9afb96d313
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=52c5a1ae-3b9c-4294-ac5d-2d9afb96d313)
 
 <!-- 立即投递
 收藏
@@ -1407,7 +1296,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=52c5a1ae-3b9c-4294-ac5d-2
 5. 能够进行国内外出差，并使用中英文进行学术汇报；
 6. 有MR/CT/PET-CT相关算法/人工智能算法/临床影像研究经验优先。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=48189bcb-b27b-4bac-b3e1-3cee6da9284d
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=48189bcb-b27b-4bac-b3e1-3cee6da9284d)
 
 <!-- 立即投递
 收藏
@@ -1435,7 +1324,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=48189bcb-b27b-4bac-b3e1-3
 5. 能够进行国内外出差，并使用中英文进行学术汇报；
 6. 有MR/CT/PET-CT相关算法/人工智能算法/临床影像研究经验优先。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=43a27ab6-6bb2-4420-a4b2-05d613fae13d
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=43a27ab6-6bb2-4420-a4b2-05d613fae13d)
 
 <!-- 立即投递
 收藏
@@ -1463,7 +1352,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=43a27ab6-6bb2-4420-a4b2-0
 5. 能够进行国内外出差，并使用中英文进行学术汇报；
 6. 有MR/CT/PET-CT相关算法/人工智能算法/临床影像研究经验优先。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=509c53ca-33c3-4d24-bb66-2101dd0617d9
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=509c53ca-33c3-4d24-bb66-2101dd0617d9)
 
 <!-- 
 立即投递
@@ -1492,7 +1381,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=509c53ca-33c3-4d24-bb66-2
 5. 能够进行国内外出差，并使用中英文进行学术汇报；
 6. 有MR/CT/PET-CT相关算法/人工智能算法/临床影像研究经验优先。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=af6f528f-098b-45ed-9997-dfcec3302f3e
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=af6f528f-098b-45ed-9997-dfcec3302f3e)
 
 <!-- 立即投递
 收藏
@@ -1520,7 +1409,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=af6f528f-098b-45ed-9997-d
 5. 能够进行国内外出差，并使用中英文进行学术汇报；
 6. 有MR/CT/PET-CT相关算法/人工智能算法/临床影像研究经验优先。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=20733ef1-f8e1-4f25-98aa-173285fd9659
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=20733ef1-f8e1-4f25-98aa-173285fd9659)
 
 <!-- 立即投递
 收藏
@@ -1876,7 +1765,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=20733ef1-f8e1-4f25-98aa-1
 4. 具有创新性思维，逻辑清晰；
 5. 优秀的英文听说读写能力。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=ebbd426e-2825-43b4-af47-008ac8411032
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=ebbd426e-2825-43b4-af47-008ac8411032)
 
 <!-- 立即投递
 收藏
@@ -1907,7 +1796,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=ebbd426e-2825-43b4-af47-0
 4. 具有创新性思维，逻辑清晰；
 5. 优秀的英文听说读写能力。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=4a7cc3af-8e50-4650-a163-d941a5abbc1b
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=4a7cc3af-8e50-4650-a163-d941a5abbc1b)
 
 <!-- 立即投递
 收藏
@@ -1974,7 +1863,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=4a7cc3af-8e50-4650-a163-d
 4. 具有编程能力和兴趣，至少熟练掌握一种编程语言，如C/C++/C#,python；
 5. 熟悉一种或多种测试工具，有软件开发/测试经验者优先。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=8e553eca-fe83-40bd-be83-5303739da9d7
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=8e553eca-fe83-40bd-be83-5303739da9d7)
 
 <!-- 立即投递
 收藏
@@ -2005,7 +1894,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=8e553eca-fe83-40bd-be83-5
 4. 具有编程能力和兴趣，至少熟练掌握一种编程语言，如C/C++/C#,python；
 5. 熟悉一种或多种测试工具，有软件开发/测试经验者优先。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=b3476114-3c6e-4e39-a4ec-865e7584da92
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=b3476114-3c6e-4e39-a4ec-865e7584da92)
 
 
 <!-- 立即投递
@@ -2040,7 +1929,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=b3476114-3c6e-4e39-a4ec-8
 （4）有CUDA/TCP/IP协议/CANOpen/EtherCAT协议/PID控制，有驱动器调试经验；<br>
 5. 具有良好的团队协作能力和沟通能力。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=b803d97f-037f-486c-8485-48203ae01cd8
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=b803d97f-037f-486c-8485-48203ae01cd8)
 
 <!-- 立即投递
 收藏
@@ -2073,7 +1962,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=b803d97f-037f-486c-8485-4
 （4）有CUDA/TCP/IP协议/CANOpen/EtherCAT协议/PID控制，有驱动器调试经验；<br>
 5. 具有良好的团队协作能力和沟通能力。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=737fb7b6-3c39-4042-9b81-766b5b27f8fa
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=737fb7b6-3c39-4042-9b81-766b5b27f8fa)
 
 <!-- 立即投递
 收藏
@@ -2107,7 +1996,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=737fb7b6-3c39-4042-9b81-7
 （5）熟练掌握Gazebo/SolidWorks/Matlab/Phython等工具软件；<br>
 （6）具有良好的团队协作能力和沟通能力。<br>
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=e95cf2ce-8dc2-42ae-8cef-164c1e0b586f
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=e95cf2ce-8dc2-42ae-8cef-164c1e0b586f)
 
 <!-- 立即投递
 收藏
@@ -2141,7 +2030,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=e95cf2ce-8dc2-42ae-8cef-1
 （5）熟练掌握Gazebo/SolidWorks/Matlab/Phython等工具软件；<br>
 （6）具有良好的团队协作能力和沟通能力。<br>
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=8f85f536-0403-42ab-b090-ec1dcb8774ed
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=8f85f536-0403-42ab-b090-ec1dcb8774ed)
 
 <!-- 立即投递
 收藏
@@ -2171,7 +2060,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=8f85f536-0403-42ab-b090-e
 6. 了解前端工程化概念，具备使用JavaScript构建工具的经验，如Webpack/Gulp/Grunt；
 7. 对Web技术有浓厚兴趣，了解行业热门技术特点，有不断提升自己的学习意识，逻辑思维能力强。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=f38878f0-7dbd-4039-a5f2-ab21c53a2704
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=f38878f0-7dbd-4039-a5f2-ab21c53a2704)
 <!-- 立即投递
 收藏
 查看详情 -->
@@ -2201,7 +2090,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=f38878f0-7dbd-4039-a5f2-a
 6. 了解前端工程化概念，具备使用JavaScript构建工具的经验，如Webpack/Gulp/Grunt；
 7. 对Web技术有浓厚兴趣，了解行业热门技术特点，有不断提升自己的学习意识，逻辑思维能力强。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=b8717b4a-b514-48fd-9b10-1926d218b1d0
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=b8717b4a-b514-48fd-9b10-1926d218b1d0)
 
 <!-- 立即投递
 收藏
@@ -2229,7 +2118,8 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=b8717b4a-b514-48fd-9b10-1
 4. 熟悉至少一种CPU、MCU、DSP系列处理器固件开发；
 5. 熟练掌握Ethernet、CAN、I2C、SPI、UART、PCIe、EtherCAT等通讯接口开发；
 6. 熟悉电机、驱动、控制等基础控制理论。
-https://united-imaging.zhiye.com/campus/detail?jobAdId=c53f8c55-0d5e-4b11-995c-2b194bae979d
+
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=c53f8c55-0d5e-4b11-995c-2b194bae979d)
 
 <!-- 立即投递
 收藏
@@ -2258,7 +2148,8 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=c53f8c55-0d5e-4b11-995c-2
 5. 熟练掌握Ethernet、CAN、I2C、SPI、UART、PCIe、EtherCAT等通讯接口开发；
 6. 熟悉电机、驱动、控制等基础控制理论。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=8a36703d-e458-4d1a-b05d-bb3be238ae45
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=8a36703d-e458-4d1a-b05d-bb3be238ae45)
+
 <!-- 立即投递
 收藏
 查看详情 -->
@@ -2287,7 +2178,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=8a36703d-e458-4d1a-b05d-b
 4. 具有人工智能相关专业（计算机视觉、机器学习、医疗图像分析等）硕士及以上学位；
 5. 能熟练使用英语。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=d3cd1b07-ae41-47c0-9237-19b613e10ef5
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=d3cd1b07-ae41-47c0-9237-19b613e10ef5)
 
 <!-- 立即投递
 收藏
@@ -2317,7 +2208,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=d3cd1b07-ae41-47c0-9237-1
 4. 具有人工智能相关专业（计算机视觉、机器学习、医疗图像分析等）硕士及以上学位；
 5. 能熟练使用英语。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=91936d66-ce73-4e82-be85-378887f7cce6
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=91936d66-ce73-4e82-be85-378887f7cce6)
 
 <!-- 立即投递
 收藏
@@ -2347,7 +2238,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=91936d66-ce73-4e82-be85-3
 4. 具有人工智能相关专业（计算机视觉、机器学习、医疗图像分析等）硕士及以上学位；
 5. 能熟练使用英语。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=405dada8-f224-43df-b4c2-719c38d35373
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=405dada8-f224-43df-b4c2-719c38d35373)
 
 <!-- 立即投递
 收藏
@@ -2377,7 +2268,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=405dada8-f224-43df-b4c2-7
 4. 具有人工智能相关专业（计算机视觉、机器学习、医疗图像分析等）硕士及以上学位；
 5. 能熟练使用英语。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=9890df3e-e0da-4e7c-bd2c-64a73c220e13
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=9890df3e-e0da-4e7c-bd2c-64a73c220e13)
 
 <!-- 
 立即投递
@@ -2406,7 +2297,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=9890df3e-e0da-4e7c-bd2c-6
 4. 熟悉以下框架/平台/项目之一：以太坊/EOS/Hyperledger Fabric，隐语隐私计算平台，Tensorflow/Pytorch/Caffe，Hadoop/Hive/Storm/Spark/Kafka/HBase/Redis/ElasticSearch；
 5. 有医疗领域大数据分析/区块链/隐私计算国家课题项目或落地产品研发经验者优先。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=e23a6c09-5a67-46a2-b339-50d290d1dd49
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=e23a6c09-5a67-46a2-b339-50d290d1dd49)
 
 <!-- 立即投递
 收藏
@@ -2434,7 +2325,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=e23a6c09-5a67-46a2-b339-5
 4. 熟悉机器视觉原理、3D重建、立体视觉、SLAM、通用图像视频分类、目标检测、人体姿态估计；
 5. 有以下开发经验者优先：OpenGL、DirectX、WebGL、Vulkan、CUDA等，或有以下引擎使用经验者优先：VTK、Unity、UE4、OSG、OGRE等。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=650ecf9a-8c6e-45b2-b25e-6e5da2731aea
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=650ecf9a-8c6e-45b2-b25e-6e5da2731aea)
 
 <!-- 立即投递
 收藏
@@ -2462,7 +2353,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=650ecf9a-8c6e-45b2-b25e-6
 4. 熟悉机器视觉原理、3D重建、立体视觉、SLAM、通用图像视频分类、目标检测、人体姿态估计；
 5. 有以下开发经验者优先：OpenGL、DirectX、WebGL、Vulkan、CUDA等，或有以下引擎使用经验者优先：VTK、Unity、UE4、OSG、OGRE等。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=da361760-9234-4641-95a4-438eb67baa47
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=da361760-9234-4641-95a4-438eb67baa47)
 
 <!-- 立即投递
 收藏
@@ -2490,7 +2381,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=da361760-9234-4641-95a4-4
 4. 熟悉机器视觉原理、3D重建、立体视觉、SLAM、通用图像视频分类、目标检测、人体姿态估计；
 5. 有以下开发经验者优先：OpenGL、DirectX、WebGL、Vulkan、CUDA等，或有以下引擎使用经验者优先：VTK、Unity、UE4、OSG、OGRE等。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=ae2179d9-9b62-44c1-81e4-ea10929eb0ce
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=ae2179d9-9b62-44c1-81e4-ea10929eb0ce)
 
 <!-- 立即投递
 
@@ -2520,7 +2411,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=ae2179d9-9b62-44c1-81e4-e
 4. 熟悉机器视觉原理、3D重建、立体视觉、SLAM、通用图像视频分类、目标检测、人体姿态估计；
 5. 有以下开发经验者优先：OpenGL、DirectX、WebGL、Vulkan、CUDA等，或有以下引擎使用经验者优先：VTK、Unity、UE4、OSG、OGRE等。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=b387bf9e-f334-4483-bc8a-caed03d35f51
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=b387bf9e-f334-4483-bc8a-caed03d35f51)
 
 <!-- 立即投递
 收藏
@@ -2551,7 +2442,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=b387bf9e-f334-4483-bc8a-c
 （2）了解统计分析和机器学习常见算法和架构；<br>
 （3）对DSP/FPGA系统架构及开发具有一定的了解。<br>
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=77e3bbbb-13f3-4f07-92d0-249d454beb73
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=77e3bbbb-13f3-4f07-92d0-249d454beb73)
 
 <!-- 立即投递
 收藏
@@ -2582,7 +2473,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=77e3bbbb-13f3-4f07-92d0-2
 （2）了解统计分析和机器学习常见算法和架构；<br>
 （3）对DSP/FPGA系统架构及开发具有一定的了解。<br>
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=a21003a9-9cc3-44d6-821e-bdaf42382db2
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=a21003a9-9cc3-44d6-821e-bdaf42382db2)
 
 <!-- 立即投递
 收藏
@@ -2606,7 +2497,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=a21003a9-9cc3-44d6-821e-b
 2. 熟悉主流SLAM框架（如Cartographer、ORB-SLAM系列、LIO-SAM、VINS-Fusion等），有量产自主导航项目经验优先；
 3. 熟悉机械臂相关运动控制算法，掌握C++/python实时控制编程。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=2ed3d754-a3fa-47c1-b528-c6507b03547d
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=2ed3d754-a3fa-47c1-b528-c6507b03547d)
 
 <!-- 立即投递
 收藏
@@ -2631,7 +2522,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=2ed3d754-a3fa-47c1-b528-c
 3. 有语音、音频信号处理（降噪，回声消除、麦阵、音效等）相关经验者优先； 
 4. 有深度学习、神经网络、智能语音识别相关研究者优先 。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=2a9f01db-f042-4cbb-8cf3-fa4295307fe1
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=2a9f01db-f042-4cbb-8cf3-fa4295307fe1)
 
 <!-- 立即投递
 收藏
@@ -2656,7 +2547,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=2a9f01db-f042-4cbb-8cf3-f
 3. 有语音、音频信号处理（降噪，回声消除、麦阵、音效等）相关经验者优先； 
 4. 有深度学习、神经网络、智能语音识别相关研究者优先 。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=fcc2fbb6-dd2c-4649-88be-f49d5ada1060
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=fcc2fbb6-dd2c-4649-88be-f49d5ada1060)
 
 <!-- 立即投递
 收藏
@@ -2730,7 +2621,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=fcc2fbb6-dd2c-4649-88be-f
 4. 有生产运营或供应链方面的实习经验优先；
 5. 具备良好的组织能力及团队合作能力，学生干部优先。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=a8786c40-a670-4ad7-8fbc-bce2060fc1c8
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=a8786c40-a670-4ad7-8fbc-bce2060fc1c8)
 
 <!-- 立即投递
 收藏
@@ -2760,7 +2651,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=a8786c40-a670-4ad7-8fbc-b
 4. 有生产运营或供应链方面的实习经验优先；
 5. 具备良好的组织能力及团队合作能力，学生干部优先。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=41a66a67-6058-4943-8225-6ea2aff38f08
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=41a66a67-6058-4943-8225-6ea2aff38f08)
 
 <!-- 立即投递
 收藏
@@ -2869,7 +2760,6 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=41a66a67-6058-4943-8225-6
 收藏
 查看详情 -->
 
-
 ## 数据中心管理工程师 - 上海(J19738)
 `校园招聘
 全职
@@ -2896,7 +2786,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=41a66a67-6058-4943-8225-6
 3. 能运用Shell、Python等脚本语言，具备一定和开发能力；
 4. 对新技术有敏锐的洞察力和浓厚的兴趣，愿意钻研，能够不断学习和提升自己的技术水平，具备解决问题的独立思考能力和高度的责任心。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=b110b946-9c59-4121-af72-25c3bfadb667
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=b110b946-9c59-4121-af72-25c3bfadb667)
 
 <!-- 立即投递
 收藏
@@ -2924,7 +2814,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=b110b946-9c59-4121-af72-2
 4. 了解异步电路处理方法、了解常用的低功耗设计方法； 
 5. 有较强的学习能力、分析能力、沟通能力，有较好的团队合作精神。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=41bc0cec-7fe4-4b67-871a-275d09c123f9
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=41bc0cec-7fe4-4b67-871a-275d09c123f9)
 
 <!-- 立即投递
 收藏
@@ -2951,7 +2841,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=41bc0cec-7fe4-4b67-871a-2
 4. 掌握一门脚本语言如Perl、Python或Shell ；
 5. 有较强的学习能力、分析能力、沟通能力，有较好的团队合作精神。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=4ec5c880-ac70-4712-b2a8-07cfe12bb08a
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=4ec5c880-ac70-4712-b2a8-07cfe12bb08a)
 
 <!-- 立即投递
 收藏
@@ -3035,7 +2925,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=4ec5c880-ac70-4712-b2a8-0
 6. 优秀的英文书面和口头沟通能力；
 7. 良好的团队合作和沟通协调能力。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=8f24f499-6e38-4dcf-9108-9957957e3ab7
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=8f24f499-6e38-4dcf-9108-9957957e3ab7)
 
 <!-- 立即投递
 收藏
@@ -3069,7 +2959,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=8f24f499-6e38-4dcf-9108-9
 6. 优秀的英文书面和口头沟通能力；
 7. 良好的团队合作和沟通协调能力。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=ca112ff7-9c5e-47d1-9f12-de4801cd0688
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=ca112ff7-9c5e-47d1-9f12-de4801cd0688)
 
 <!-- 立即投递
 收藏
@@ -3103,7 +2993,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=ca112ff7-9c5e-47d1-9f12-d
 6. 优秀的英文书面和口头沟通能力；
 7. 良好的团队合作和沟通协调能力。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=03b03b41-8f12-45d1-b65f-34607b8be486
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=03b03b41-8f12-45d1-b65f-34607b8be486)
 
 <!-- 立即投递
 收藏
@@ -3136,7 +3026,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=03b03b41-8f12-45d1-b65f-3
 6. 优秀的英文书面和口头沟通能力；
 7. 良好的团队合作和沟通协调能力。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=73e9ab81-7d38-48da-b0ee-76e8bc3779a1
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=73e9ab81-7d38-48da-b0ee-76e8bc3779a1)
 
 <!-- 立即投递
 收藏
@@ -3188,7 +3078,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=73e9ab81-7d38-48da-b0ee-7
 2)具备手术机器人安全设计意识（无菌/电磁兼容/急停机制）<br>
 3)有动物实验/临床反馈迭代经验<br>
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=c9131df5-1497-4c97-a502-9fc8ee90ca3a
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=c9131df5-1497-4c97-a502-9fc8ee90ca3a)
 
 <!-- 立即投递
 收藏
@@ -3240,7 +3130,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=c9131df5-1497-4c97-a502-9
 2)具备手术机器人安全设计意识（无菌/电磁兼容/急停机制）<br>
 3)有动物实验/临床反馈迭代经验<br>
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=8a99e8ff-742d-450d-8e02-5ad36a1e1453
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=8a99e8ff-742d-450d-8e02-5ad36a1e1453)
 
 <!-- 立即投递
 收藏
@@ -3268,7 +3158,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=8a99e8ff-742d-450d-8e02-5
 3. 具有电子/电力/电磁场/放射物理/机械基础/光学/医学影像知识背景之一优先；
 4. 熟悉示波器、频谱仪、网络分析仪等一种或多种测试工具优先。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=a4e4a2c8-d88a-4d51-b8bd-6556ac0b43a0
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=a4e4a2c8-d88a-4d51-b8bd-6556ac0b43a0)
 
 <!-- 立即投递
 收藏
@@ -3345,7 +3235,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=a4e4a2c8-d88a-4d51-b8bd-6
 6. 具有良好的沟通能力和团队合作意识；具备发现问题，解决问题的的能力；
 7. 有责任心，有进取心，对新领域新知识有快速学习能力。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=43758101-9376-4fac-a083-c8e441be3d47
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=43758101-9376-4fac-a083-c8e441be3d47)
 
 <!-- 立即投递
 收藏
@@ -3371,7 +3261,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=43758101-9376-4fac-a083-c
 3. 出色的语言、沟通、组织协调能力，善于说服他人与自己合作，具备较好的实际解决问题与抗压能力；
 4. 贴近用户，自我驱动，有想法，重落地。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=dc857e8a-cb91-4071-8318-fa738794d969
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=dc857e8a-cb91-4071-8318-fa738794d969)
 
 <!-- 立即投递
 收藏
@@ -3400,7 +3290,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=dc857e8a-cb91-4071-8318-f
 5. 有高度的责任感，主动，追求卓越。
 6. 具备一定的代码能力，理解面向对象编程的思想，可以进行一定规模的代码开发，能够使用matlab进行算法验证。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=0e2925de-307c-4988-8de7-f8751566347f
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=0e2925de-307c-4988-8de7-f8751566347f)
 
 <!-- 立即投递
 收藏
@@ -3429,7 +3319,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=0e2925de-307c-4988-8de7-f
 5. 有高度的责任感，主动，追求卓越。
 6. 具备一定的代码能力，理解面向对象编程的思想，可以进行一定规模的代码开发，能够使用matlab进行算法验证。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=73206eaa-e85d-45e1-8e90-931815e6e3b8
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=73206eaa-e85d-45e1-8e90-931815e6e3b8)
 
 <!-- 立即投递
 收藏
@@ -3458,7 +3348,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=73206eaa-e85d-45e1-8e90-9
 5. 有高度的责任感，主动，追求卓越。
 6. 具备一定的代码能力，理解面向对象编程的思想，可以进行一定规模的代码开发，能够使用matlab进行算法验证。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=1324ec5e-3fd6-4b86-b944-e3641abfe212
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=1324ec5e-3fd6-4b86-b944-e3641abfe212)
 
 <!-- 立即投递
 收藏
@@ -3639,7 +3529,7 @@ https://united-imaging.zhiye.com/campus/detail?jobAdId=1324ec5e-3fd6-4b86-b944-e
 2. 快速学习能力：能在3-6个月内掌握DICOM、FHIR等医疗数据标准及数据脱敏合规要求；
 3. 责任心与细致度：理解医疗数据敏感性，具备严谨的数据处理态度。
 
-https://united-imaging.zhiye.com/campus/detail?jobAdId=1df07401-cdd8-467a-b8eb-6a56614e64c9
+[官网投递↗](https://united-imaging.zhiye.com/campus/detail?jobAdId=1df07401-cdd8-467a-b8eb-6a56614e64c9)
 
 <!--  -->
 <span style="font-size:12px; color:#999">THE END</span>
