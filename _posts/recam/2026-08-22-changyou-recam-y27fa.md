@@ -57,20 +57,23 @@ excerpt: "搜狐畅游27届秋招岗位(~20个)"
 <!-- <img src="https://img.gdvzz.com/icx/Xiaomi_logo_(2021-).svg" alt="xiaomi" style="max-height: 2rem; width: auto; height: auto; max-width: 100%;">
 <br> -->
 
-[公司简介↗](https://www.changyou.com/1_1.shtml)
-[公司介绍↗](https://campus.changyou.com/character/about.shtml)
-[畅游生活↗](https://campus.changyou.com/character/life.shtml)
-[薪资福利↗](https://campus.changyou.com/character/welfare.shtml)
-[师哥师姐↗](https://campus.changyou.com/character/senior.shtml)
+- [公司简介↗](https://www.changyou.com/1_1.shtml)
+- [公司介绍↗](https://campus.changyou.com/character/about.shtml)
+- [畅游生活↗](https://campus.changyou.com/character/life.shtml)
+- [薪资福利↗](https://campus.changyou.com/character/welfare.shtml)
+- [师哥师姐↗](https://campus.changyou.com/character/senior.shtml)
 
 <!--  -->
 ## 投递建议
 
+- [搜狐畅游2027届秋招答疑↗](https://qe6loxoa9s.feishu.cn/docx/PXcudPXaAo6vwTxbDqIcOT0lnId)
 - 若需要协助、商讨、✅**速成** 等等，可联系QQ群中的董老师。
 
 <!--  -->
 ## 岗位列表
 <!-- <span style="font-size:12px; color:#999">eos_岗位列表</span> -->
+
+✳️ `(nc)` not collected 未收录。感兴趣同学可访问招聘官网。
 
 ### 平台技术（2/2）
 
