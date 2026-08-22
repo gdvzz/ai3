@@ -1,5 +1,5 @@
 ---
-title: "阿里云_27届秋招(待续)"
+title: "阿里云_27届秋招-tad"
 last_modified_at: 2026-08-08T14:00:00+08:00
 categories:
   - recam
@@ -11,7 +11,7 @@ layout: splash
 # classes: wide   # 就这一行，让页面变宽
 ---
 
-# 阿里云_27届秋招(待续)
+# 阿里云_27届秋招-tad
 {: .no_toc }
 `更新-260808` \| `发布-260808`
 
@@ -39,7 +39,7 @@ layout: splash
 <!--  -->
 - ⚛️ 招聘官网：[阿里巴巴2027届校园招聘↗](https://campus-talent.alibaba.com/campus/business)  → “业务集团/公司”：选“阿里云”
 - ❇️ 招聘官微：[阿里云 \丨2027届应届生招聘正式启动↗](https://mp.weixin.qq.com/s/wdUAYxmOkYhuhj3goq0_5Q)`（阿里巴巴集团招聘 2026年8月5日 12:25 浙江）`
-- 🛑 截止日期：不详
+- 🛑 截止日期：推测12月31日（8月5日开始）
 
 <!--  -->
 ## 雇主简介
