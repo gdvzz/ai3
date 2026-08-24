@@ -22,7 +22,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
-search: true
+# search: true
+search: false
 
 # 以下是新增
 
