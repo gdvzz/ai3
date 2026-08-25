@@ -1,6 +1,6 @@
 ---
-title: "小鹏集团_27届秋招-tons"
-last_modified_at: 2026-08-23T07:00:00+08:00
+title: "完美世界_27届秋招-tons"
+last_modified_at: 2026-08-25T09:00:00+08:00
 categories:
   - recam
 # tags:
@@ -10,7 +10,7 @@ categories:
 layout: splash
 # classes: wide   # 就这一行，让页面变宽
 
-excerpt: "小鹏集团27届秋招岗位(~个)"
+excerpt: "完美世界（上市公司，广播、电视、电影和录音制作业）27届秋招岗位(~个)"
 # header:
 #   overlay_image: /assets/images/brc/y27/hundsun.png
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -21,9 +21,9 @@ excerpt: "小鹏集团27届秋招岗位(~个)"
 #       url: "#bar"
 ---
 
-# 小鹏集团_27届秋招-tons
+# 完美世界_27届秋招-tons
 {: .no_toc }
-`更新-260823` \| `发布-260823`
+`更新-260825` \| `发布-260825`
 
 <!--  -->
 <details markdown="block">
@@ -43,13 +43,15 @@ excerpt: "小鹏集团27届秋招岗位(~个)"
 <!--  -->
 ## 招聘信息
 
-<img src="/assets/images/brc/y27/pxwsemi.jpg" alt="brc-y27-pxwsemi" style=" width: auto; height: auto; max-width: 100%;">
+<img src="/assets/images/brc/y27/wanmei.png" alt="brc-y27-wanmei" style=" width: auto; height: auto; max-width: 100%;">
 <br>
 
 <!--  -->
-- ⚛️ 招聘官网：[小鹏集团校招官网↗](https://xiaopeng.jobs.feishu.cn/campus/)
-<!-- - ❇️ 招聘官微：[鹏芯微2027届校园招聘正式启动！↗](https://mp.weixin.qq.com/s/EiuL3jFVed33dV5uSOccFw) `(鹏芯微招聘 2026年8月17日 10:00 广东)` -->
-- 🛑 截止日期：推测12月31日（推测8月18日起）
+⚛️ 招聘官网：[完美世界中国电信校园招聘官网↗](https://jobs.games.wanmei.com/)
+
+❇️ 招聘官微：[完美世界2027秋季校园招聘正式启动！↗](https://mp.weixin.qq.com/s/XrYBYyFxtU1MdgzD03h3rw) `(完美世界招聘 2026年8月18日 17:00 北京)`
+
+🛑 截止日期：推测12月31日（8月18日起）
 
 <!--  -->
 ## 雇主简介
@@ -57,7 +59,7 @@ excerpt: "小鹏集团27届秋招岗位(~个)"
 <!-- <img src="https://img.gdvzz.com/icx/Xiaomi_logo_(2021-).svg" alt="xiaomi" style="max-height: 2rem; width: auto; height: auto; max-width: 100%;">
 <br> -->
 
-- [关于小鹏↗](https://www.xiaopeng.com/about.html)
+- [完美世界简介↗](https://www.wanmei.com/zh/intro.html)
 
 <!--  -->
 ## 投递建议
@@ -70,13 +72,13 @@ excerpt: "小鹏集团27届秋招岗位(~个)"
 
 ✳️ `(nc)` not collected 未收录。感兴趣同学可访问招聘官网。
 
-
+`260825-tons待补充`
 
 <!--  -->
 <span style="font-size:12px; color:#999">THE END</span>
 
 
-## 附录
+<!-- ## 附录
 
 ### 抓取岗位信息
 
@@ -385,7 +387,7 @@ https://xiaopeng.jobs.feishu.cn/api/v1/job/posts/7677442258110679306?portal_type
 转换程序：[hytera_j2md.py↗](../blog/getjd.assets/hytera_j2md.py)<br>
 
 【27届校招】数字模型CAS培训生(上海) -- 处理失败
-</details>
+</details> -->
 
 
 
