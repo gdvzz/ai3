@@ -1,6 +1,6 @@
 ---
-title: "完美世界_27届秋招-tons"
-last_modified_at: 2026-08-25T08:30:00+08:00
+title: "姚记科技_27届秋招-tons"
+last_modified_at: 2026-08-25T12:00:00+08:00
 categories:
   - recam
 # tags:
@@ -10,7 +10,7 @@ categories:
 layout: splash
 # classes: wide   # 就这一行，让页面变宽
 
-excerpt: "完美世界（上市公司，广播、电视、电影和录音制作业）27届秋招岗位(~个)"
+excerpt: "姚记科技27届秋招岗位(~个)"
 # header:
 #   overlay_image: /assets/images/brc/y27/hundsun.png
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -21,7 +21,7 @@ excerpt: "完美世界（上市公司，广播、电视、电影和录音制作�
 #       url: "#bar"
 ---
 
-# 完美世界_27届秋招-tons
+# 姚记科技_27届秋招-tons
 {: .no_toc }
 `更新-260825` \| `发布-260825`
 
@@ -43,15 +43,13 @@ excerpt: "完美世界（上市公司，广播、电视、电影和录音制作�
 <!--  -->
 ## 招聘信息
 
-<img src="/assets/images/brc/y27/wanmei.png" alt="brc-y27-wanmei" style=" width: auto; height: auto; max-width: 100%;">
+<img src="/assets/images/brc/y27/yaoji.jpg" alt="brc-y27-yaoji" style=" width: auto; height: auto; max-width: 100%;">
 <br>
 
 <!--  -->
-⚛️ 招聘官网：[完美世界中国电信校园招聘官网↗](https://jobs.games.wanmei.com/)
-
-❇️ 招聘官微：[完美世界2027秋季校园招聘正式启动！↗](https://mp.weixin.qq.com/s/XrYBYyFxtU1MdgzD03h3rw) `(完美世界招聘 2026年8月18日 17:00 北京)`
-
-🛑 截止日期：推测12月31日（8月18日起）
+⚛️ 招聘官网：[姚记科技校招官网↗](https://zhaopin.yaoji.cn/campus)<br>
+<!-- ❇️ 招聘官微：[游酷盛世2027校园招聘正式启动！↗](https://mp.weixin.qq.com/s/OIgmsSO5ZMryyekwrVYTWw) `(等你加入的游酷HR 遇见游酷 2026年8月12日 17:00 北京)`<br> -->
+🛑 截止日期：10月31日（推测8月24日起）<br>
 
 <!--  -->
 ## 雇主简介
@@ -59,7 +57,7 @@ excerpt: "完美世界（上市公司，广播、电视、电影和录音制作�
 <!-- <img src="https://img.gdvzz.com/icx/Xiaomi_logo_(2021-).svg" alt="xiaomi" style="max-height: 2rem; width: auto; height: auto; max-width: 100%;">
 <br> -->
 
-- [完美世界简介↗](https://www.wanmei.com/zh/intro.html)
+- [关于姚记↗](http://www.yaojikeji.com/aboutUs/1)
 
 <!--  -->
 ## 投递建议
@@ -77,7 +75,18 @@ excerpt: "完美世界（上市公司，广播、电视、电影和录音制作�
 <!--  -->
 <span style="font-size:12px; color:#999">THE END</span>
 
+<!-- https://campus.magictavern.com/_nuxt/content/db-e2645ac6.json
 
+{
+    "id": "937cb506-575b-4f3b-b253-957118202c2a",
+    "name": "关卡策划",
+    "type": "策划部 Game Design Team",
+    "webHref": "https://app.mokahr.com/campus_apply/tavern/39918#/job/937cb506-575b-4f3b-b253-957118202c2a/apply?pure=1",
+    "mobileHerf": "https://app.mokahr.com/m/campus_apply/tavern/39918#/micro-resume/937cb506-575b-4f3b-b253-957118202c2a",
+    "description": "<p>你将负责：</p><p>完成游戏关卡制作，关卡相关系统文档的梳理和撰写，游戏规则的制订。</p><p><br></p><p>我们需要你：</p><p>1、本科及以上学历，专业不限；</p><p>2、对三消等休闲游戏有深入体验、研究和理解；</p><p>3、体验三消类关卡 单游戏进度超过500关，多游戏叠加进度超过1000关；</p><p>4、热爱三消类休闲游戏，愿意长期从事三消游戏关卡工作；</p><p>5、思维活跃，脑洞大；</p><p>6、具有良好的逻辑思维能力，对数据和用户体验有敏感度；</p><p>7、踏实细致，乐于沟通，具有较强的学习能力，良好的感受力，较高的工作自律性；</p><p>8、充满好奇心  Be curious</p><p>      快速学习且渴望学习；</p><p>9、开放心态  Open mind</p><p>      突破自己，不断成长。</p>",
+    "province": "",
+    "opened": "2024-08-23"
+} -->
 <!-- ## 附录
 
 ### 抓取岗位信息

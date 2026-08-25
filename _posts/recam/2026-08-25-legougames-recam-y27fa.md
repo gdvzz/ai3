@@ -1,6 +1,6 @@
 ---
-title: "完美世界_27届秋招-tons"
-last_modified_at: 2026-08-25T08:30:00+08:00
+title: "乐狗游戏_27届秋招-tons"
+last_modified_at: 2026-08-25T11:00:00+08:00
 categories:
   - recam
 # tags:
@@ -10,7 +10,7 @@ categories:
 layout: splash
 # classes: wide   # 就这一行，让页面变宽
 
-excerpt: "完美世界（上市公司，广播、电视、电影和录音制作业）27届秋招岗位(~个)"
+excerpt: "乐狗游戏27届秋招岗位(~个)"
 # header:
 #   overlay_image: /assets/images/brc/y27/hundsun.png
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -21,7 +21,7 @@ excerpt: "完美世界（上市公司，广播、电视、电影和录音制作�
 #       url: "#bar"
 ---
 
-# 完美世界_27届秋招-tons
+# 乐狗游戏_27届秋招-tons
 {: .no_toc }
 `更新-260825` \| `发布-260825`
 
@@ -43,15 +43,13 @@ excerpt: "完美世界（上市公司，广播、电视、电影和录音制作�
 <!--  -->
 ## 招聘信息
 
-<img src="/assets/images/brc/y27/wanmei.png" alt="brc-y27-wanmei" style=" width: auto; height: auto; max-width: 100%;">
-<br>
+<!-- <img src="/assets/images/brc/y27/37wan.png" alt="brc-y27-37wan" style=" width: auto; height: auto; max-width: 100%;">
+<br> -->
 
 <!--  -->
-⚛️ 招聘官网：[完美世界中国电信校园招聘官网↗](https://jobs.games.wanmei.com/)
-
-❇️ 招聘官微：[完美世界2027秋季校园招聘正式启动！↗](https://mp.weixin.qq.com/s/XrYBYyFxtU1MdgzD03h3rw) `(完美世界招聘 2026年8月18日 17:00 北京)`
-
-🛑 截止日期：推测12月31日（8月18日起）
+⚛️ 招聘官网：[乐狗游戏招聘官网↗](https://app.mokahr.com/apply/legougames/6162#/)<br>
+❇️ 招聘官微：[校园招聘 \| 乐狗游戏2027届秋季校园招聘正式启动↗](https://mp.weixin.qq.com/s/rTPpj5PEZ0XKPsjb8h4LVA) `(乐狗游戏 2026年8月17日 18:42 四川)`<br>
+🛑 截止日期：推测10月31日（8月17日起）<br>
 
 <!--  -->
 ## 雇主简介
@@ -59,7 +57,7 @@ excerpt: "完美世界（上市公司，广播、电视、电影和录音制作�
 <!-- <img src="https://img.gdvzz.com/icx/Xiaomi_logo_(2021-).svg" alt="xiaomi" style="max-height: 2rem; width: auto; height: auto; max-width: 100%;">
 <br> -->
 
-- [完美世界简介↗](https://www.wanmei.com/zh/intro.html)
+- [关于乐狗游戏↗](https://www.legougames.com/about/)
 
 <!--  -->
 ## 投递建议
