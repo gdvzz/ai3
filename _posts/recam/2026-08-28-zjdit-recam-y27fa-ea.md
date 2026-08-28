@@ -1,5 +1,5 @@
 ---
-title: "贝壳_27届秋招-tob"
+title: "中久数创_27届秋招_提前批-tob"
 last_modified_at: 2026-08-28T08:00:00+08:00
 categories:
   - recam
@@ -10,7 +10,7 @@ categories:
 layout: splash
 # classes: wide   # 就这一行，让页面变宽
 
-excerpt: "贝壳27届秋招岗位(~个)"
+excerpt: "中久数创（中物院下属企业）27届秋招提前批岗位(~个)"
 # header:
 #   overlay_image: /assets/images/brc/y27/hundsun.png
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -21,7 +21,7 @@ excerpt: "贝壳27届秋招岗位(~个)"
 #       url: "#bar"
 ---
 
-# 贝壳_27届秋招-tob
+# 中久数创_27届秋招_提前批-tob
 {: .no_toc }
 `更新-260828` \| `发布-260828`
 
@@ -43,13 +43,13 @@ excerpt: "贝壳27届秋招岗位(~个)"
 <!--  -->
 ## 招聘信息
 
-<img src="/assets/images/brc/y27/ke.jpg" alt="brc-y27-ke" style=" width: auto; height: auto; max-width: 100%;">
-<br>
+<!-- <img src="/assets/images/brc/y27/ke.jpg" alt="brc-y27-ke" style=" width: auto; height: auto; max-width: 100%;">
+<br> -->
 
 <!--  -->
-⚛️ 招聘官网：[贝壳校园招聘官网 ↗](https://campus.ke.com/)<br>
-❇️ 招聘官微：[贝壳2027届ADC校园招聘全面启动！↗](https://mp.weixin.qq.com/s/pVFBZVtQ5Sbzx4pHDn44TQ) `(贝壳找房招聘 2026年8月25日 18:00 北京)`<br>
-🛑 截止日期：推测12月31日（8月25日起）<br>
+⚛️ 招聘官网：[中久数创招聘官网 ↗](https://zp.zjdit.com/)<br>
+❇️ 招聘官微：[中久数创2027届校园招聘正式启动！↗](https://mp.weixin.qq.com/s/pOfxrgt-fyN0FIYVQv2fAA) `(中久数创 2026年8月24日 19:17 四川)`<br>
+🛑 截止日期：9月15日（8月24日起）<br>
 
 <!--  -->
 ## 雇主简介
@@ -57,16 +57,25 @@ excerpt: "贝壳27届秋招岗位(~个)"
 <!-- <img src="https://img.gdvzz.com/icx/Xiaomi_logo_(2021-).svg" alt="xiaomi" style="max-height: 2rem; width: auto; height: auto; max-width: 100%;">
 <br> -->
 
-作为居住产业数字化服务平台，贝壳致力于推进居住服务的产业数字化、智能化进程，通过聚合、助力优质服务者，为中国家庭提供包括二手房交易、新房交易、租赁、家装、家居、家服等一站式、高品质、高效率服务，实现“对消费者好、帮助服务者对消费者好”。
+四川中久数创科技有限公司成立于2024年，隶属于中国工程物理研究院直属军品国有企业——中国久远高新技术装备有限公司。公司主要从事高性能通用CAE软件——"茉莉平台"的产品研发和市场推广，致力于为军工和民用行业用户提供自主CAE软件解决方案。
 
-随着“美好居住”时代加速到来，贝壳完成“一体三翼”战略升级，持续参与居住产业高质量发展，让家更美好！
+公司拥有一支超两百人的高水平CAE软件人才队伍，硕士以上学历占比超90%，承担多项国家CAE软件重点研发项目，并承接了多类市场化项目，将茉莉平台推广应用于核、航天、航空、航发、船舶、兵器等领域的军工和民用单位，获得了用户的广泛好评。
 
-更多信息请参考：[贝壳简介 ↗](https://about.ke.com/home/introduction)
+中物院高性能数值模拟软件中心和中国久远高新技术装备有限公司CAE软件事业部作为公司的战略协作共同体，聚焦CAE软件模块研发和场景应用，确保茉莉平台在国家重大行业中融合发展。
+
+更多信息请参考：[中久数创介绍 ↗](https://www.zjdit.com/home/company_profile/index.html#pabout-introd)
 
 <!--  -->
 ## 投递建议
 
 - 若需要协助、商讨、✅**速成** 等等，可联系QQ群中的董老师。
+
+感兴趣同学，还可以看看中物院软件中心招聘：
+
+- [中物院软件中心招聘官网 ↗](http://www.caep-scns.ac.cn/career)
+- [中物院软件中心2027届校园招聘火热开启！↗](https://mp.weixin.qq.com/s/pRLI_EgLFJXRoM7nmSeitA) `(中物院高性能数值模拟软件中心 2026年8月24日 18:11 北京)`
+
+还可以看看：[中物院招聘网 ↗](https://zpxx.caep.cn/#/recruitInfo/index)，**事业编**
 
 <!--  -->
 ## 岗位列表

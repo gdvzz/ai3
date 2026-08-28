@@ -1,6 +1,6 @@
 ---
-title: "贝壳_27届秋招-tob"
-last_modified_at: 2026-08-28T08:00:00+08:00
+title: "宁德时代_27届秋招-tob"
+last_modified_at: 2026-08-28T20:00:00+08:00
 categories:
   - recam
 # tags:
@@ -10,7 +10,7 @@ categories:
 layout: splash
 # classes: wide   # 就这一行，让页面变宽
 
-excerpt: "贝壳27届秋招岗位(~个)"
+excerpt: "宁德时代(世界500强)27届秋招岗位(~个)"
 # header:
 #   overlay_image: /assets/images/brc/y27/hundsun.png
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -21,7 +21,7 @@ excerpt: "贝壳27届秋招岗位(~个)"
 #       url: "#bar"
 ---
 
-# 贝壳_27届秋招-tob
+# 宁德时代_27届秋招-tob
 {: .no_toc }
 `更新-260828` \| `发布-260828`
 
@@ -43,12 +43,12 @@ excerpt: "贝壳27届秋招岗位(~个)"
 <!--  -->
 ## 招聘信息
 
-<img src="/assets/images/brc/y27/ke.jpg" alt="brc-y27-ke" style=" width: auto; height: auto; max-width: 100%;">
+<img src="/assets/images/brc/y27/catl.jpg" alt="brc-y27-catl" style=" width: auto; height: auto; max-width: 100%;">
 <br>
 
 <!--  -->
-⚛️ 招聘官网：[贝壳校园招聘官网 ↗](https://campus.ke.com/)<br>
-❇️ 招聘官微：[贝壳2027届ADC校园招聘全面启动！↗](https://mp.weixin.qq.com/s/pVFBZVtQ5Sbzx4pHDn44TQ) `(贝壳找房招聘 2026年8月25日 18:00 北京)`<br>
+⚛️ 招聘官网：[宁德时代招聘官网 ↗](https://talent.catl.com/)<br>
+❇️ 招聘官微：[宁德时代2027届全球校园招聘正式启动 ↗](https://mp.weixin.qq.com/s/5nD0k7oujmtzZX4tzzhw5w) `(CATL宁德时代招聘 2026年8月25日 10:58 福建)`<br>
 🛑 截止日期：推测12月31日（8月25日起）<br>
 
 <!--  -->
@@ -57,15 +57,14 @@ excerpt: "贝壳27届秋招岗位(~个)"
 <!-- <img src="https://img.gdvzz.com/icx/Xiaomi_logo_(2021-).svg" alt="xiaomi" style="max-height: 2rem; width: auto; height: auto; max-width: 100%;">
 <br> -->
 
-作为居住产业数字化服务平台，贝壳致力于推进居住服务的产业数字化、智能化进程，通过聚合、助力优质服务者，为中国家庭提供包括二手房交易、新房交易、租赁、家装、家居、家服等一站式、高品质、高效率服务，实现“对消费者好、帮助服务者对消费者好”。
+宁德时代新能源科技股份有限公司是全球领先的零碳新能源科技公司，致力于为全球新能源应用提供一流解决方案和服务，以全域增量战略构建零碳能源生态，推动能源转型与可持续发展。
 
-随着“美好居住”时代加速到来，贝壳完成“一体三翼”战略升级，持续参与居住产业高质量发展，让家更美好！
-
-更多信息请参考：[贝壳简介 ↗](https://about.ke.com/home/introduction)
+更多信息请参考：[企业简介 ↗](https://www.catl.com/about/profile/)
 
 <!--  -->
 ## 投递建议
 
+- 世界500强公司，可积极尝试投递。
 - 若需要协助、商讨、✅**速成** 等等，可联系QQ群中的董老师。
 
 <!--  -->
@@ -74,7 +73,9 @@ excerpt: "贝壳27届秋招岗位(~个)"
 
 <!-- ✳️ `(nc)` not collected 未收录。感兴趣同学可访问招聘官网。 -->
 
-`260828-tob待补充`
+`260828-tob待收录岗位信息。感兴趣同学可先自行访问招聘官网获得岗位信息。`
+
+<!--  -->
 
 <!--  -->
 <span style="font-size:12px; color:#999">THE END</span>
