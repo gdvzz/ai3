@@ -116,7 +116,7 @@ excerpt: "厦门银行27届秋招岗位(~10个)"
 5. 符合厦门银行亲属回避的有关规定。
 6. 符合应聘职位的其他资格条件和胜任能力。
 
-https://app.mokahr.com/campus-recruitment/xmbankonline/182209#/job/37cf081f-0391-410c-bbed-525c72c055c3
+[官网投递↗](https://app.mokahr.com/campus-recruitment/xmbankonline/182209#/job/37cf081f-0391-410c-bbed-525c72c055c3)
 
 <!--  -->
 ## 总行管培生（FinTech方向）
@@ -145,7 +145,7 @@ https://app.mokahr.com/campus-recruitment/xmbankonline/182209#/job/37cf081f-0391
 5. 符合厦门银行亲属回避的有关规定。
 6. 符合应聘职位的其他资格条件和胜任能力。
 
-https://app.mokahr.com/campus-recruitment/xmbankonline/182209#/job/9e998db1-8981-481d-a310-1449f76a9687
+[官网投递↗](https://app.mokahr.com/campus-recruitment/xmbankonline/182209#/job/9e998db1-8981-481d-a310-1449f76a9687)
 
 <!--  -->
 ## 分行管培生（综合方向）
@@ -174,7 +174,7 @@ https://app.mokahr.com/campus-recruitment/xmbankonline/182209#/job/9e998db1-8981
 5. 符合厦门银行亲属回避的有关规定。
 6. 符合应聘职位的其他资格条件和胜任能力。
 
-
+**官网投递和工作地点**
 - [重庆分行 ↗](https://app.mokahr.com/campus-recruitment/xmbankonline/182209#/job/e369da06-6f24-48b0-bd6c-3e7eac31ca54) `工作地点：重庆市`
 - [福州分行 ↗](https://app.mokahr.com/campus-recruitment/xmbankonline/182209#/job/852f2e6b-b88d-40b2-816d-50776b186fc4) `工作地点：福建·福州市`
 - [龙岩分行 ↗](https://app.mokahr.com/campus-recruitment/xmbankonline/182209#/job/af1be1cf-e18e-4222-b722-5ee95d81ea6e) `工作地点：福建·龙岩市`
