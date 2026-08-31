@@ -1,6 +1,6 @@
 ---
-title: "高标科技_27届秋招-tud"
-last_modified_at: 2026-08-31T08:00:00+08:00
+title: "TCL华星_27届秋招-tud"
+last_modified_at: 2026-08-31T10:00:00+08:00
 categories:
   - recam
 # tags:
@@ -11,7 +11,7 @@ categories:
 layout: splash
 # classes: wide   # 就这一行，让页面变宽
 
-excerpt: "高标科技27届秋招岗位(~个)"
+excerpt: "TCL华星(中国500强子公司)27届秋招岗位(~个)"
 # header:
 #   overlay_image: /assets/images/brc/y27/hundsun.png
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -22,7 +22,7 @@ excerpt: "高标科技27届秋招岗位(~个)"
 #       url: "#bar"
 ---
 
-# 高标科技_27届秋招-tud
+# TCL华星_27届秋招-tud
 {: .no_toc }
 `更新-260831` \| `发布-260831`
 
@@ -44,13 +44,13 @@ excerpt: "高标科技27届秋招岗位(~个)"
 <!--  -->
 ## 招聘信息
 
-<img src="/assets/images/brc/y27/gobao.jpg" alt="brc-y27-gobao" style=" width: auto; height: auto; max-width: 100%;">
-<br>
+<!-- <img src="/assets/images/brc/y27/kehua.jpg" alt="brc-y27-kehua" style=" width: auto; height: auto; max-width: 100%;">
+<br> -->
 
 <!--  -->
-⚛️ 招聘官网：[高标科技校园招聘官网 ↗](https://kjgb.zhiye.com/campus)<br>
-❇️ 招聘官微：[青春加速度，标定新高度 | 高标科技2027校园招聘全面启动！↗](https://mp.weixin.qq.com/s/wP8SAfHYSbOWa_CR6d0rVA) `(校招offer哥 高标科技官微  2026年7月24日 19:23 广东)`<br>
-🛑 截止日期：推测10月31日（7月24日起）<br>
+⚛️ 招聘官网：[TCL校园招聘官网 ↗](https://campus.tcl.com/campus)<br>
+❇️ 招聘官微：[TCL华星2027届秋季校园招聘正式启动！↗](https://mp.weixin.qq.com/s/mxGh_Ntz8-kHatEh4K8Fsw) `(TCL招聘  2026年8月25日 12:00 广东)`<br>
+🛑 截止日期：12月31日（8月25日起）<br>
 
 <!--  -->
 ## 雇主简介
@@ -58,19 +58,20 @@ excerpt: "高标科技27届秋招岗位(~个)"
 <!-- <img src="https://img.gdvzz.com/icx/Xiaomi_logo_(2021-).svg" alt="xiaomi" style="max-height: 2rem; width: auto; height: auto; max-width: 100%;">
 <br> -->
 
-广东高标智能科技股份有限公司创建于2002年，公司位于广东省东莞市松山湖园区，生产基地建筑面积超过4万㎡，员工人数超千人。
+TCL华星光电技术有限公司成立于2009年，是一家专注于半导体显示领域的创新型科技企业。TCL华星延续TCL集团致力于为用户带来前瞻性的科技体验和智慧健康生活的使命，愿景成为全球领先的显示解决方案提供商，并通过搭建前、中、后三大平台为高效益经营保驾护航。
 
-高标科技是一家专注于短途交通工具智能电驱动系统的研发、制造及系统解决方案的提供商，公司围绕智能控制器、E-bike电驱动系统及集成等核心产品，依托在运动控制、驱动与传动领域的关键技术积累，为客户提供从关键部件到系统集成的一体化解决方案。
+APEX是TCL华星的先进显示技术品牌，致力于以全球领先技术，创极致产品体验，通过更宜人的显示体验、更信赖的视觉健康、更永续的绿色低碳，以及更无限的未来想象，为全球消费者提供高品质视觉感官享受。
 
-公司深耕短途交通工具电驱动领域二十余年，积累了深厚的技术产业经验，行业市场地位突出。公司与雅迪、爱玛、台铃、九号公司、春风动力、小牛、小刀、新日、绿源等国内主流整车品牌建立了长期深度合作，并积极拓展海外市场，产品已进入欧洲、东南亚等地区。
+通过构建“3+2+N”的业务布局，TCL华星致力于以全场景的产品服务赋能客户场景需求，目前已形成三大核心业务和两大新兴业务，正在探索更多应用前景的新兴业务。TCL华星围绕客户进行海外业务与产业布局，构建全球化的运营网络，服务全球市场。截止到2024年，TCL集团已建成11大面板产线和7大制造、研发基地，拥有全球第二大LCD产能和全球第一大LTPS产能。
 
-高标使命：加速全球短途交通工具的电动化和智能化
+展望未来，TCL华星将以“成为全球领先的显示解决方案提供商”为愿景，以领先科技和极致体验，共创洞见万物的未来显示。
 
-更多信息请参考：[GOBAO > 关于我们 ↗](https://www.gobao.cn/zh/about/gsjj/) 
+更多信息请参考：[TCL华星 > 关于我们 ↗](https://www.tclcsot.com/aboutus/) 
 
 <!--  -->
 ## 投递建议
 
+- 中国500强的子公司，可积极尝试投递。
 - 若需要协助、商讨、✅**速成** 等等，可联系QQ群中的董老师。
 
 <!--  -->

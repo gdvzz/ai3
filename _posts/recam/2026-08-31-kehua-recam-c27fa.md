@@ -1,5 +1,5 @@
 ---
-title: "高标科技_27届秋招-tud"
+title: "科华集团_27届秋招-tud"
 last_modified_at: 2026-08-31T08:00:00+08:00
 categories:
   - recam
@@ -11,7 +11,7 @@ categories:
 layout: splash
 # classes: wide   # 就这一行，让页面变宽
 
-excerpt: "高标科技27届秋招岗位(~个)"
+excerpt: "科华集团（上市公司）27届秋招岗位(~个)"
 # header:
 #   overlay_image: /assets/images/brc/y27/hundsun.png
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -22,7 +22,7 @@ excerpt: "高标科技27届秋招岗位(~个)"
 #       url: "#bar"
 ---
 
-# 高标科技_27届秋招-tud
+# 科华集团_27届秋招-tud
 {: .no_toc }
 `更新-260831` \| `发布-260831`
 
@@ -44,13 +44,13 @@ excerpt: "高标科技27届秋招岗位(~个)"
 <!--  -->
 ## 招聘信息
 
-<img src="/assets/images/brc/y27/gobao.jpg" alt="brc-y27-gobao" style=" width: auto; height: auto; max-width: 100%;">
+<img src="/assets/images/brc/y27/kehua.jpg" alt="brc-y27-kehua" style=" width: auto; height: auto; max-width: 100%;">
 <br>
 
 <!--  -->
-⚛️ 招聘官网：[高标科技校园招聘官网 ↗](https://kjgb.zhiye.com/campus)<br>
-❇️ 招聘官微：[青春加速度，标定新高度 | 高标科技2027校园招聘全面启动！↗](https://mp.weixin.qq.com/s/wP8SAfHYSbOWa_CR6d0rVA) `(校招offer哥 高标科技官微  2026年7月24日 19:23 广东)`<br>
-🛑 截止日期：推测10月31日（7月24日起）<br>
+⚛️ 招聘官网：[科华集团校园招聘官网 ↗](https://app.mokahr.com/campus-recruitment/kehua/92510#/page/%E6%A0%A1%E6%8B%9B%E8%81%8C%E4%BD%8D)<br>
+❇️ 招聘官微：[科华集团2027届全球校园招聘正式启动！↗](https://mp.weixin.qq.com/s/yFHIkPSnW_6bzM-V3iZ0gw) `(科华招聘  2026年8月25日 16:07 福建)`<br>
+🛑 截止日期：推测12月31日（8月25日起）<br>
 
 <!--  -->
 ## 雇主简介
@@ -58,15 +58,11 @@ excerpt: "高标科技27届秋招岗位(~个)"
 <!-- <img src="https://img.gdvzz.com/icx/Xiaomi_logo_(2021-).svg" alt="xiaomi" style="max-height: 2rem; width: auto; height: auto; max-width: 100%;">
 <br> -->
 
-广东高标智能科技股份有限公司创建于2002年，公司位于广东省东莞市松山湖园区，生产基地建筑面积超过4万㎡，员工人数超千人。
+科华数据（股票代码：002335）前身创立于1988年，近40年来深耕电力电子与数字技术创新，形成数据中心、高端电源、清洁能源三大业务矩阵，服务网络覆盖全球100余个国家和地区。公司以“AI + 数字能源”为核心，为互联网、金融、交通、石化、通信、电力、政府、医疗、科研教育等行业提供智慧电能及智算解决方案，以绿色电能驱动数智未来。
 
-高标科技是一家专注于短途交通工具智能电驱动系统的研发、制造及系统解决方案的提供商，公司围绕智能控制器、E-bike电驱动系统及集成等核心产品，依托在运动控制、驱动与传动领域的关键技术积累，为客户提供从关键部件到系统集成的一体化解决方案。
+科华，创造可持续价值。
 
-公司深耕短途交通工具电驱动领域二十余年，积累了深厚的技术产业经验，行业市场地位突出。公司与雅迪、爱玛、台铃、九号公司、春风动力、小牛、小刀、新日、绿源等国内主流整车品牌建立了长期深度合作，并积极拓展海外市场，产品已进入欧洲、东南亚等地区。
-
-高标使命：加速全球短途交通工具的电动化和智能化
-
-更多信息请参考：[GOBAO > 关于我们 ↗](https://www.gobao.cn/zh/about/gsjj/) 
+更多信息请参考：[科华 > 关于科华 ↗](https://www.kehua.com.cn/about) 
 
 <!--  -->
 ## 投递建议
