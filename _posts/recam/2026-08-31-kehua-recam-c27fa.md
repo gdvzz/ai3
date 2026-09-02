@@ -44,7 +44,7 @@ excerpt: "科华集团（上市公司）27届秋招岗位(~个)"
 <!--  -->
 ## 招聘信息
 
-<img src="/assets/images/brc/y27/kehua.jpg" alt="brc-y27-kehua" style=" width: auto; height: auto; max-width: 100%;">
+<img src="/assets/images/brc/c27/kehua.jpg" alt="brc-y27-kehua" style=" width: auto; height: auto; max-width: 100%;">
 <br>
 
 <!--  -->

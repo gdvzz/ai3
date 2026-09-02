@@ -44,7 +44,7 @@ excerpt: "高标科技27届秋招岗位(~个)"
 <!--  -->
 ## 招聘信息
 
-<img src="/assets/images/brc/y27/gobao.jpg" alt="brc-y27-gobao" style=" width: auto; height: auto; max-width: 100%;">
+<img src="/assets/images/brc/c27/gobao.jpg" alt="brc-y27-gobao" style=" width: auto; height: auto; max-width: 100%;">
 <br>
 
 <!--  -->
