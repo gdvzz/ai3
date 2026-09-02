@@ -1,6 +1,6 @@
 ---
 title: "中建八一_27届秋招"
-last_modified_at: 2026-08-17T12:00:00+08:00
+last_modified_at: 2026-09-02T22:00:00+08:00
 categories:
   - recam
 # tags:
