@@ -1,6 +1,6 @@
 ---
-title: "拼多多_27届秋招_rc-tud"
-last_modified_at: 2026-09-03T17:00:00+08:00
+title: "福耀集团_27届秋招-tud"
+last_modified_at: 2026-09-03T19:00:00+08:00
 categories:
   - recam
 # tags:
@@ -11,7 +11,7 @@ categories:
 layout: splash
 # classes: wide   # 就这一行，让页面变宽
 
-excerpt: "拼多多(世界500强)27届秋招岗位(~个)"
+excerpt: "福耀集团(中国500强)27届秋招岗位(~个)"
 # header:
 #   overlay_image: /assets/images/brc/y27/hundsun.png
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -22,7 +22,7 @@ excerpt: "拼多多(世界500强)27届秋招岗位(~个)"
 #       url: "#bar"
 ---
 
-# 拼多多_27届秋招_rc-tud
+# 福耀集团_27届秋招-tud
 {: .no_toc }
 `更新-260903` \| `发布-260903`
 
@@ -44,14 +44,13 @@ excerpt: "拼多多(世界500强)27届秋招岗位(~个)"
 <!--  -->
 ## 招聘信息
 
-<img src="/assets/images/brc/c27/pdd.jpg" alt="brc-c27-pdd" style=" width: auto; height: auto; max-width: 100%;">
-<br>
+<!-- <img src="/assets/images/brc/c27/pdd.jpg" alt="brc-c27-pdd" style=" width: auto; height: auto; max-width: 100%;">
+<br> -->
 
 <!--  -->
-⚛️ 招聘官网：[拼多多校园招聘官网 ↗](https://careers.pddglobalhr.com/campus/)<br>
-❇️ 招聘官微：[3000+OFFER机会！拼多多集团-PDD | 2027届校招正式批启动！↗](https://mp.weixin.qq.com/s/iY-9z6yoQpAxxFbVYF3-qg) `(拼多多集团-PDD招聘 2026年9月2日 13:31 上海)`<br>
-🛑 截止日期：27年1月31日（9月2日起）<br>
-🌟 内推链接：[https://careers.pddglobalhr.com/campus/grad?t=d6xUXBFPqq ↗](https://careers.pddglobalhr.com/campus/grad?t=d6xUXBFPqq) `（仅供参考）`
+⚛️ 招聘官网：[福耀集团招聘官网 ↗](https://job.fuyaogroup.com/)<br>
+❇️ 招聘官微：[2027届福耀集团校园招聘全面启动 ↗](https://mp.weixin.qq.com/s/VVWS-cSK5_MShq2z4FdYxA) `(福耀集团招聘 2026年8月28日 11:00 福建)`<br>
+🛑 截止日期：推测12月31日（8月28日起）<br>
 
 <!--  -->
 ## 雇主简介
@@ -59,20 +58,17 @@ excerpt: "拼多多(世界500强)27届秋招岗位(~个)"
 <!-- <img src="https://img.gdvzz.com/icx/Xiaomi_logo_(2021-).svg" alt="xiaomi" style="max-height: 2rem; width: auto; height: auto; max-width: 100%;">
 <br> -->
 
-创立于2015年4月，2018年7月在美国纳斯达克上市（NASDAQ：PDD）。作为新电商创新者，拼多多集团-PDD致力于以创新的消费者体验，融合“多实惠”和“多乐趣”，为广大用户创造持久的价值。
+福耀集团（全称福耀玻璃工业集团股份有限公司）1987年在福建福州成立，是一家致力于全球汽车玻璃和汽车饰件设计、开发、制造、供应及服务一体化解决方案的大型跨国工业集团，于1993年在上海证券交易所主板上市（A股代码：600660），于2015年在香港交易所上市（H股代码：3606），形成兼跨境内外两大资本平台的“A+H”模式。
 
-目前，拼多多集团-PDD在国内拥有年活跃买家9亿左右，活跃商家上千万，日均在途包裹数超过1亿件，旗下经营有中国大陆地区超大用户规模的电商平台和大型农副产品线上零售平台。
+福耀集团多年蝉联《财富》中国500强、中国民营企业500强，多次获得“中国最佳企业公民”“中国十佳上市公司”“CCTV最佳雇主”等社会殊荣。
 
-其中，区域业务自2020年8月启动以来，通过“线上下单+线下自提”的半预购模式，为广大消费者提供实惠、安心、便民的社区团购服务，目前已覆盖内地除西藏外的30个省级行政区，提货点开进了全国70%的行政村。
-
-为助力中国制造出海，拼多多集团-PDD于2022年9月以新技术赋能出海业务，降低出海门槛，拓宽订单渠道，助力品牌培育，至今已深入中国百余个制造业产业带，推动上万家制造企业的优质产品进入北美、欧洲、亚洲等90多个国家和地区。
-
-更多信息请参考：[拼多多校园招聘 > 关于我们 ↗](https://careers.pddglobalhr.com/campus/about) 
+更多信息请参考：[福耀集团 > 关于我们 ↗](https://www.fuyaogroup.com/about.html) 
 
 <!--  -->
 ## 投递建议
 
-- 世界500强，可积极尝试投递。
+- 中国500强，可积极尝试投递。
+- 可先关注信息技术岗。
 - 若需要协助、商讨、✅**速成** 等等，可联系QQ群中的董老师。
 
 <!--  -->
@@ -80,7 +76,7 @@ excerpt: "拼多多(世界500强)27届秋招岗位(~个)"
 <!-- <span style="font-size:12px; color:#999">eos_岗位列表</span> -->
 <!-- ✳️ `(nc)` not collected 未收录。感兴趣同学可访问招聘官网。 -->
 
-`260903-tud- 待收录岗位信息。感兴趣同学可先自行访问招聘官网获得岗位信息。`
+`260903-tud-待收录岗位信息。感兴趣同学可先自行访问招聘官网获得岗位信息。`
 
 <!--  -->
 <span style="font-size:12px; color:#999">THE END</span>
