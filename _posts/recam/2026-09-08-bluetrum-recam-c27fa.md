@@ -45,7 +45,7 @@ excerpt: "中科蓝讯(上市公司)27届秋招岗位(~个)"
 <!--  -->
 ## 招聘信息
 
-<img src="/assets/images/brc/c27/bluetrum.jpg" alt="brc-y27-bluetrum" style=" width: auto; height: auto; max-width: 100%;">
+<img src="/assets/images/brc/c27/bluetrum.jpg" alt="brc-c27-bluetrum" style=" width: auto; height: auto; max-width: 100%;">
 <br>
 
 <!--  -->
