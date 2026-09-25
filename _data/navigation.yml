@@ -3,14 +3,18 @@ main:
     url: /fsem/
   - title: "笔记"
     url: /categories/blog/
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
+  # - title: "Posts"
+  #   url: /posts/
+  # - title: "Categories"
+  #   url: /categories/
+  # - title: "Tags"
+  #   url: /tags/
+  - title: "分类"
     url: /categories/
-  - title: "Tags"
+  - title: "标签"
     url: /tags/
-  - title: "About"
-    url: /about/
+  # - title: "About"
+  #   url: /about/
   # - title: "招聘"
   #   url: /categories/recam/
   # - title: "就业test"
