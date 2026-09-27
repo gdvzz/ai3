@@ -3,6 +3,9 @@ title: "宿迁移动_27届秋招"
 last_modified_at: 2026-09-27T08:00:00+08:00
 categories:
   - recam
+tags:
+  - cgcr
+#  cgcr = Cross-Graduation Campus Recruitment
 layout: splash
 excerpt: "宿迁移动(中国移动下属分支机构)27届秋招岗位(~多技术岗)"
 ---
