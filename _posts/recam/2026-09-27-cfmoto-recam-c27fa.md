@@ -21,8 +21,8 @@ excerpt: "春风动力(上市公司)27届秋招岗位(~7大类)"
 <!--  -->
 ## 招聘信息
 
-<!-- <img src="/assets/images/brc/c27/cfmoto.jpg" alt="brc-c27-cfmoto" style=" width: auto; height: auto; max-width: 100%;">
-<br> -->
+<img src="/assets/images/brc/c27/cfmoto.jpg" alt="brc-c27-cfmoto" style=" width: auto; height: auto; max-width: 100%;">
+<br>
 
 <!--  -->
 ⚛️ 招聘官网：[春风动力校园招聘官网 ↗](https://cfmoto.zhiye.com)<br>
