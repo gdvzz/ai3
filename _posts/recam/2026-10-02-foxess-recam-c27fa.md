@@ -33,8 +33,8 @@ excerpt: "帆软(BI行业头部)27届秋招岗位(~若干)"
 <!--  -->
 ## 雇主简介
 
-<!-- <img src="https://join.fanruan.com/explore-fr?id=1" alt="fanruan" style="max-height: 2rem; width: auto; height: auto; max-width: 100%;">
-<br> -->
+<img src="https://join.fanruan.com/explore-fr?id=1" alt="fanruan" style="max-height: 2rem; width: auto; height: auto; max-width: 100%;">
+<br>
 
 帆软软件有限公司（以下简称"帆软"）成立于2006年，是中国专业的大数据BI和分析平台提供商，专注商业智能和数据分析领域，致力于为全球企业提供一站式商业智能解决方案。帆软在中国商业智能领域连续多年市场占有率第一，累计合作超过43000家中大型企业客户，2025中国企业500强中帆软合作378家。2024年实现营收15.7亿元，公司坚持"永不上市，利润共享"的理念，2000多名员工，总部位于无锡，设有南京、成都研发运营中心，并下设10个国内分支机构，39个线下城市服务网点，省份覆盖率100%。2026年，帆软积极布局AI智能分析赛道，推出以 Moss、Dora 等产品为代表的AI原生应用，将自然语言交互、智能问答和自动洞察引入数据分析场景。
 
