@@ -1,5 +1,5 @@
 ---
-title: "TCL实业_27届秋招"
+title: "TCL_27届秋招"
 last_modified_at: 2026-10-07T07:00:00+08:00
 categories:
   - recam
@@ -7,7 +7,7 @@ layout: splash
 excerpt: "TCL 27届秋招岗位(~若干)"
 ---
 
-# TCL实业_27届秋招
+# TCL_27届秋招
 {: .no_toc }
 `更新-261007` \| `发布-261007`
 
